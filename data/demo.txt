@@ -1,0 +1,128 @@
+ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents
+Chia-Yu Li, Daniel Ortega, Dirk Väth, Florian Lux, Lindsey Vanderlyn, Maximilian Schmidt, Michael Neumann, Moritz Völkel, Pavel Denisov, Sabrina Jenne, Zorica Kacarevic and Ngoc Thang Vu
+
+BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab
+Yonghao Jin, Fei Li and Hong Yu
+
+Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes
+Pengfei Cao, Chenwei Yan, xiangling fu, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu and Weifeng Chong
+
+CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task
+Shuo Sun, Suzanna Sia and Kevin Duh
+
+Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems
+Swadheen Shukla, Lars Liden, Shahin Shayandeh, Eslam Kamal, Jinchao Li, Matt Mazzola, Thomas Park, Baolin Peng and Jianfeng Gao
+
+ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems
+Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, Ryuichi Takanobu, Jinchao Li, Baolin Peng, Jianfeng Gao, xiaoyan zhu and Minlie Huang
+
+DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation
+Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu and Bill Dolan
+
+Embedding-based Scientific Literature Discovery in a Text Editor Application
+Onur Gökçe, Jonathan Prada, Nikola Nikolov, Nianlong Gu and Richard Hahnloser
+
+ESPnet-ST: All-in-One Speech Translation Toolkit
+Hirofumi Inaguma, Shun Kiyono, Kevin Duh, Shigeki Karita, Nelson Yalta, Tomoki Hayashi and Shinji Watanabe
+
+EVIDENCEMINER: Textual Evidence Discovery for Life Sciences
+Xuan Wang, Yingjun Guan, Weili Liu, Aabhas Chauhan, Enyi Jiang, Qi Li, David Liem, Dibakar Sigdel, John Caufield, Peipei Ping and Jiawei Han
+
+exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models
+Benjamin Hoover, Hendrik Strobelt and Sebastian Gehrmann
+
+GAIA: A Fine-grained Multimedia Knowledge Extraction System
+Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, BRIAN CHEN, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski and Marjorie Freedman
+
+Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations
+Toby Jia-Jun Li, Tom Mitchell and Brad Myers
+
+jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models
+Yada Pruksachatkun, Phil Yeres, Haokun Liu, Jason Phang, Phu Mon Htut, Alex Wang, Ian Tenney and Samuel R. Bowman
+
+Label Noise in Context
+Michael Desmond, Catherine Finegan-Dollak, Jeff Boston and Matt Arnold
+
+LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation
+Dong-Ho Lee, Rahul Khanna, Bill Yuchen Lin, Seyeon Lee, Qinyuan Ye, Elizabeth Boschee, Leonardo Neves and Xiang Ren
+
+LinggleWrite: a Coaching System for Essay Writing
+Chung-Ting Tsai, Jhih-Jie Chen, Chingyu Yang and Jason Chang
+
+MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform
+Xiang Gao, Michel Galley and Bill Dolan
+
+MMPE: A Multi-Modal Interface using Handwriting, Touch Reordering, and Speech Commands for Post-Editing Machine Translation
+Nico Herbig, Santanu Pal, Tim Düwel, Kalliopi Maria Meladaki, Mahsa Monshizadeh, Vladislav Hnatovskiy, Antonio Krüger and Josef van Genabith
+
+Multilingual Universal Sentence Encoder for Semantic Retrieval
+Yinfei Yang, Daniel Cer, Amin Ahmad, Mandy Guo, Jax Law, Noah Constant, Gustavo Hernandez Abrego, Steve Yuan, Chris Tar, Yun-hsuan Sung, Brian Strope and Ray Kurzweil
+
+Nakdan: Professional Hebrew Diacritizer
+Avi Shmidman, Shaltiel Shmidman, Moshe Koppel and Yoav Goldberg
+
+NLP Scholar: An Interactive Visual Explorer for Natural Language Processing Literature
+Saif Mohammad
+
+NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg
+Joshua Bambrick, Minjie Xu, Andy Almonte, Igor Malioutov, Guim Perarnau, Vittorio Selo and Iat Chong Chan
+
+OpusFilter: A Configurable Parallel Corpus Filtering Toolbox
+Mikko Aulamo, Sami Virpioja and Jörg Tiedemann
+
+Penman: An Open-Source Library and Tool for AMR Graphs
+Michael Wayne Goodman
+
+Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation
+Federico Scozzafava, Marco Maru, Fabrizio Brignone, Giovanni Torrisi and Roberto Navigli
+
+Photon: A Robust Cross-Domain Text-to-SQL System
+Jichuan Zeng, Xi Victoria Lin, Steven C.H. Hoi, Richard Socher, Caiming Xiong, Michael Lyu and Irwin King
+
+Prta: A System to Support the Analysis of Propaganda Techniques in the News
+Giovanni Da San Martino, Shaden Shaar, Yifan Zhang, Seunghak Yu, Alberto Barrón-Cedeño and Preslav Nakov
+
+pyBART: Evidence-based Syntactic Transformations for IE
+Aryeh Tiktinsky, Yoav Goldberg and Reut Tsarfaty
+
+Stanza: A Python Natural Language Processing Toolkit for Many Human Languages
+Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning
+
+Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines
+Nabil Hossain, John Krumm, Tanvir Sajed and Henry Kautz
+
+SUPP.AI: finding evidence for supplement-drug interactions
+Lucy Wang, Oyvind Tafjord, Arman Cohan, Sarthak Jain, Sam Skjonsberg, Carissa Schoenick, Nick Botner and Waleed Ammar
+
+Syntactic Search by Example
+Micah Shlain, Hillel Taub-Tabib, Shoval Sadde and Yoav Goldberg
+
+SyntaxGym: An Online Platform for Targeted Evaluation of Language Models
+Jon Gauthier, Jennifer Hu, Ethan Wilcox, Peng Qian and Roger Levy
+
+Tabouid: a Wikipedia-based word guessing game
+Timothée Bernard
+
+Talk to Papers: Bringing Neural Question Answering to Academic Search
+Tiancheng Zhao and Kyusong Lee
+
+TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing
+Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang and Guoping Hu
+
+The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding
+Xiaodong Liu, Yu Wang, Jianshu Ji, Hao Cheng, Xueyun Zhu, Emmanuel Awa, Pengcheng He, Weizhu Chen, Hoifung Poon, Guihong Cao and Jianfeng Gao
+
+Torch-Struct: Deep Structured Prediction Library
+Alexander Rush
+
+Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time
+Benjamin Nye, Ani Nenkova, Iain Marshall and Byron C. Wallace
+
+Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing
+Ben Swanson and Boris Smus
+
+What’s The Latest? A Question-driven News Chatbot
+Philippe Laban, John Canny and Marti A. Hearst
+
+Xiaomingbot: A Multilingual Robot News Reporter
+Runxin Xu, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang and Lei Li

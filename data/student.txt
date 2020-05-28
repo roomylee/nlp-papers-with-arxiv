@@ -1,0 +1,146 @@
+#NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media
+Ashima Suvarna and Grusha Bhalla
+
+A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples
+Zhao Meng and Roger Wattenhofer
+
+A Simple and Effective Dependency parser for Telugu
+Sneha Nallani, Manish Shrivastava and Dipti Sharma
+
+Adaptive Transformers for Learning Multimodal Representations
+Prajjwal Bhargava
+
+AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss
+Mahmoud Daif, Shunsuke Kitada and Hitoshi Iyatomi
+
+Building a Japanese Typo Dataset from Wikipedia’s Revision History
+Yu Tanaka, Yugo Murawaki, Daisuke Kawahara and Sadao Kurohashi
+
+Checkpoint Reranking: An Approach To Select Better Hypothesis For Neural Machine Translation Systems
+Vinay Pandramish and Dipti Misra Sharma
+
+Combining Subword Representations into Word-level Representations in the Transformer Architecture
+Noe Casas, Marta R. Costa-jussà and José A. R. Fonollosa
+
+Compositional generalization by factorizing alignment and translation
+Jacob Russin, Jason Jo, Randall O’Reilly and Yoshua Bengio
+
+Considering Likelihood in NLP Classiﬁcation Explanations with Occlusion and Language Modeling
+David Harbecke and Christoph Alt
+
+Crossing the Line: Where do Demographic Variables Fit into Humor Detection?
+J. A. Meaney
+
+Cross-Lingual Disaster-related Multi-label Tweet Classification with Manifold Mixup
+Jishnu Ray Chowdhury, Cornelia Caragea and Doina Caragea
+
+Dominance as an Indicator of Rapport and Learning in Human-Agent Communication
+Amanda Buddemeyer, Xiaoyi Tian and Erin Walker
+
+Effectively Aligning and Filtering Parallel Corpora under Sparse Data Conditions
+Steinþór Steingrímsson
+
+Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages
+Vikrant Goyal, Sourav Kumar and Dipti Misra Sharma
+
+Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition
+Takuma Kato, Kaori Abe, Hiroki Ouchi, Shumpei Miyawaki, Jun Suzuki and Kentaro Inui
+
+Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources
+Magdalena Biesialska, bardia rafieian and Marta R. Costa-jussà
+
+Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder
+Zheng Tang, Gus Hahn-Powell and Mihai Surdeanu
+
+Exploring the Role of Context to Distinguish Rhetorical and Information-Seeking Questions
+Yuan Zhuang and Ellen Riloff
+
+Feature Difference Makes Sense: A medical image captioning model exploiting feature difference and tag information
+Hyeryun Park, Kyungmo Kim, Jooyoung Yoon, Seongkeun Park and Jinwook Choi
+
+Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner’s Error Tendency
+Yujin Takahashi, Satoru Katsumata and Mamoru Komachi
+
+HGCN4MeSH: Hybrid Graph Convolution Network for MeSH Indexing
+Miaomiao Yu, Yujiu Yang and Chenhui Li
+
+How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?
+Gantavya Bhatt, Hritik Bansal, Rishubh Singh and Sumeet Agarwal
+
+υBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems
+Tsuta Yuma, Naoki Yoshinaga and Masashi Toyoda
+
+Inducing Grammar from Long Short-Term Memory Networks by Shapley Decomposition
+Yuhui Zhang and Allen Nie
+
+Let’s be Humorous: Knowledge Enhanced Humor Generation
+Hang Zhang, Dayiheng Liu, Jiancheng Lv and Luo Cheng
+
+Logical Inferences with Comparatives and Generalized Quantifiers
+Izumi Haruta, Koji Mineshima and Daisuke Bekki
+
+Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling
+Felix Hamborg
+
+Multi-Task Neural Model for Agglutinative Language Translation
+Yirong Pan, Xiao Li, Yating Yang and Rui Dong
+
+Noise-Based Augmentation Techniques for Emotion Datasets: What do we Recommend?
+Mimansa Jaiswal and Emily Mower Provost
+
+Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment
+Alex Lưu and Sophia A. Malamud
+
+Pointwise Paraphrase Appraisal is Potentially Problematic
+Hannah Chen, Yangfeng Ji and David Evans
+
+Pre-training via Leveraging Assisting Languages for Neural Machine Translation
+Haiyue Song, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita
+
+Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation
+Hiroaki Funayama, Shota Sasaki, Yuichiroh Matsubayashi, Tomoya Mizumoto, Jun Suzuki, Masato Mita and Kentaro Inui
+
+Reflection-based Word Attribute Transfer
+Yoichi Ishibashi, Katsuhito Sudoh, Koichiro Yoshino and Satoshi Nakamura
+
+Research on Task Discovery for Transfer Learning in Deep Neural Networks
+Arda Akdemir
+
+Research Replication Prediction Using Weakly Supervised Learning
+Tianyi Luo, Xingyu Li, Hainan Wang and Yang Liu
+
+RPD: A Distance Function Between Word Embeddings
+Xuhui Zhou, Shujian Huang and Zaixiang Zheng
+
+SCAR: Sentence Compression using Autoencoders for Reconstruction
+Chanakya Malireddy, Tirth Maniar and Manish Shrivastava
+
+Self-Attention is Not Only a Weight: Analyzing BERT with Vector Norms
+Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi and Kentaro Inui
+
+Story-level Text Style Transfer: A Proposal
+Yusu Qian
+
+To compress or not to compress? A Finite-State approach to Nen verbal morphology
+Saliha Muradoglu, Nicholas Evans and Hanna Suominen
+
+Topic balancing with additive regularization of topic models
+Eugeniia Veselova and Konstantin Vorontsov
+
+Transferring Monolingual Model to Low-Resource Language: The Case of Tigrinya
+Abrhalei Frezghi Tela, Abraham Woubie Zewoudie and Ville Hautamäki
+
+Understanding Points of Correspondence between Sentences for Abstractive Summarization
+Logan Lebanoff, John Muchovej, Franck Dernoncourt, Doo Soon Kim, Lidan Wang, Walter Chang and Fei Liu
+
+Unsupervised Multilingual Sentence Embeddings for Parallel Corpus Mining
+Ivana Kvapilíková, Mikel Artetxe, Gorka Labaka, Eneko Agirre and Ondřej Bojar
+
+Unsupervised Paraphasia Classification in Aphasic Speech
+Sharan Pai, Nikhil Sachdeva, Prince Sachdeva and Rajiv Ratn Shah
+
+Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models
+Pia Sommerauer
+
+Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition
+Hwichan Kim, Tosho Hirasawa and Mamoru Komachi
