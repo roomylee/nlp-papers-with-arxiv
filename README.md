@@ -8,8 +8,7 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 
 ## ACL 2020 Acceptance Rate
 
-[WIP]
-<!-- ![rate](figure/rate.png) -->
+![rate](figure/acceptance.png)
 
 ## ACL 2020 Paper Keywords
 
