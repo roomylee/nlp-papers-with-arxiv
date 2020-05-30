@@ -71,7 +71,7 @@
 - Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking
 - ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages [[arXiv]](https://arxiv.org/abs/2005.07105)
 
-###languag network multi
+### languag network multi
 - A Batch Normalized Inference Network Keeps the KL Vanishing Away [[arXiv]](http://arxiv.org/abs/2004.12585)
 - A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks
 - A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization
@@ -146,7 +146,7 @@
 - Understanding Attention for Text Classification
 - WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge [[arXiv]](https://arxiv.org/abs/2005.05763)
 
-###languag generat learn
+### languag generat learn
 - A Call for More Rigor in Unsupervised Cross-lingual Learning [[arXiv]](http://arxiv.org/abs/2004.14958)
 - A Generative Model for Joint Natural Language Understanding and Generation
 - A Joint Model for Document Segmentation and Segment Labeling
@@ -219,7 +219,7 @@
 - What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks
 - What Question Answering can Learn from Trivia Nerds [[arXiv]](https://arxiv.org/abs/1910.14464)
 
-###neural translat machin
+### neural translat machin
 - A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking
 - A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
@@ -287,7 +287,7 @@
 - Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting [[arXiv]](http://arxiv.org/abs/2005.03119)
 - What are the Goals of Distributional Semantics? [[arXiv]](http://arxiv.org/abs/2005.02982)
 
-###model detect knowledg
+### model detect knowledg
 - A Corpus for Large-Scale Phonetic Typology [[arXiv]](https://arxiv.org/abs/2005.13962)
 - A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure [[arXiv]](https://arxiv.org/abs/2005.02680)
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
@@ -334,7 +334,7 @@
 - TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition
 - Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification
 
-###domain multi transfer
+### domain multi transfer
 - A Formal Hierarchy of RNN Architectures [[arXiv]](https://arxiv.org/abs/2004.08500)
 - A Girl Has A Name: Detecting Authorship Obfuscation [[arXiv]](https://arxiv.org/abs/2005.00702)
 - A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages
@@ -410,7 +410,7 @@
 - Unsupervised Domain Clusters in Pretrained Language Models [[arXiv]](https://arxiv.org/abs/2004.02105)
 - When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People? [[arXiv]](https://arxiv.org/abs/2004.12043)
 
-###model generat text
+### model generat text
 - A Graph Auto-encoder Model of Derivational Morphology
 - A Joint Neural Model for Information Extraction with Global Features
 - A Mixture of h − 1 Heads is Better than h Heads [[arXiv]](https://arxiv.org/abs/2005.06537)
@@ -501,7 +501,7 @@
 - XtremeDistil: Multi-stage Distillation for Massive Multilingual Models [[arXiv]](https://arxiv.org/abs/2004.05686)
 - You Impress Me: Dialogue Generation via Mutual Persona Perception [[arXiv]](https://arxiv.org/abs/2004.05388)
 
-###graph languag question
+### graph languag question
 - A Methodology for Creating Question Answering Corpora Using Inverse Data Annotation [[arXiv]](https://arxiv.org/abs/2004.07633)
 - A Novel Cascade Binary Tagging Framework for Relational Triple Extraction [[arXiv]](https://arxiv.org/abs/1909.03227)
 - A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks [[arXiv]](https://arxiv.org/abs/2005.09606)
@@ -589,7 +589,7 @@
 
 ## Short Papers
 
-###languag generat text
+### languag generat text
 - A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle
 - A Frame-based Sentence Representation for Machine Reading Comprehension
 - A Transformer-based Approach for Source Code Summarization [[arXiv]](https://arxiv.org/abs/2005.00653)
@@ -616,7 +616,7 @@
 - Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture [[arXiv]](https://arxiv.org/abs/2005.03454)
 - Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data [[arXiv]](https://arxiv.org/abs/1909.10158)
 
-###learn translat word
+### learn translat word
 - A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers
 - Analyzing the Persuasive Effect of Style in News Editorial Argumentation
 - Are we Estimating or Guesstimating Translation Quality?
@@ -645,7 +645,7 @@
 - Understanding Advertisements with BERT
 - Variational Neural Machine Translation with Normalizing Flows [[arXiv]](http://arxiv.org/abs/2005.13978)
 
-###time infer learn
+### time infer learn
 - A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal [[arXiv]](https://arxiv.org/abs/2005.10070)
 - A Multi-Perspective Architecture for Semantic Code Search [[arXiv]](https://arxiv.org/abs/2005.06980)
 - Contrastive Self-Supervised Learning for Commonsense Reasoning [[arXiv]](https://arxiv.org/abs/2005.00669)
@@ -664,7 +664,7 @@
 - Uncertain Natural Language Inference [[arXiv]](https://arxiv.org/abs/1909.03042)
 - You Don’t Have Time to Read This: An Exploration of Document Reading Time Prediction
 
-###learn classif ground
+### learn classif ground
 - A negative case analysis of visual grounding methods for VQA [[arXiv]](https://arxiv.org/abs/2004.05704)
 - A Relational Memory-based Embedding Model for Triple Classification and Search Personalization [[arXiv]](https://arxiv.org/abs/1907.06080)
 - A Simple and Effective Unified Encoder for Document-Level Machine Translation
@@ -696,7 +696,7 @@
 - Words aren’t enough, their order matters: On the Robustness of Grounding Visual Referring Expressions [[arXiv]](https://arxiv.org/abs/2005.01655)
 - Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences
 
-###generat model unsupervis
+### generat model unsupervis
 - A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing [[arXiv]](https://arxiv.org/abs/2005.01646)
 - A Tale of a Probe and a Parser [[arXiv]](https://arxiv.org/abs/2005.01641)
 - A Two-Step Approach for Implicit Event Argument Detection
@@ -724,7 +724,7 @@
 - Unsupervised FAQ Retrieval with Question Generation and BERT
 - Verbal Multiword Expressions for Identification of Metaphor
 
-###translat machin neural
+### translat machin neural
 - A Re-evaluation of Knowledge Graph Completion Methods [[arXiv]](https://arxiv.org/abs/1911.03903)
 - A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation
 - Autoencoding Keyword Correlation Graph for Document Clustering
@@ -769,7 +769,7 @@
 - ``You Sound Just Like Your Father’’ Commercial Machine Translation Systems Include Stylistic Biases
 - ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT
 
-###model neural represent
+### model neural represent
 - A Relaxed Matching Procedure for Unsupervised BLI
 - A Two-Stage Masked LM Method for Term Set Expansion [[arXiv]](https://arxiv.org/abs/2005.01063)
 - Active Learning for Coreference Resolution using Discrete Annotation [[arXiv]](https://arxiv.org/abs/2004.13671)
@@ -792,7 +792,7 @@
 - Treebank Embedding Vectors for Out-of-domain Dependency Parsing [[arXiv]](https://arxiv.org/abs/2005.00800)
 - Tree-Structured Neural Topic Model
 
-###recognit entiti name
+### recognit entiti name
 - A Three-Parameter Rank-Frequency Relation in Natural Languages
 - ClarQ: A large-scale and diverse dataset for Clarification Question Generation
 - Code-switching patterns can be an effective route to improve performance of downstream NLP applications: A case study of humour, sarcasm and hate speech detection [[arXiv]](http://arxiv.org/abs/2005.02295)
@@ -815,7 +815,7 @@
 
 ## System Demonstrations
 
-###multi toolkit modal
+### multi toolkit modal
 - ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents [[arXiv]](http://arxiv.org/abs/2005.01777)
 - jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models
 - MMPE: A Multi-Modal Interface using Handwriting, Touch Reordering, and Speech Commands for Post-Editing Machine Translation
@@ -824,12 +824,12 @@
 - Torch-Struct: Deep Structured Prediction Library [[arXiv]](https://arxiv.org/abs/2002.00876)
 - What’s The Latest? A Question-driven News Chatbot
 
-###clinic platform base
+### clinic platform base
 - BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab
 - Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes
 - OpusFilter: A Configurable Parallel Corpus Filtering Toolbox
 
-###sourc open toolkit
+### sourc open toolkit
 - CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task
 - ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems [[arXiv]](https://arxiv.org/abs/2002.04793)
 - Embedding-based Scientific Literature Discovery in a Text Editor Application [[arXiv]](http://arxiv.org/abs/2005.04961)
@@ -837,28 +837,28 @@
 - pyBART: Evidence-based Syntactic Transformations for IE [[arXiv]](https://arxiv.org/abs/2005.01306)
 - TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing [[arXiv]](https://arxiv.org/abs/2002.12620)
 
-###news dialog task
+### news dialog task
 - Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems [[arXiv]](https://arxiv.org/abs/2004.04305)
 - ESPnet-ST: All-in-One Speech Translation Toolkit [[arXiv]](https://arxiv.org/abs/2004.10234)
 - LinggleWrite: a Coaching System for Essay Writing
 - Prta: A System to Support the Analysis of Propaganda Techniques in the News [[arXiv]](https://arxiv.org/abs/2005.05854)
 - Xiaomingbot: A Multilingual Robot News Reporter
 
-###generat drive news
+### generat drive news
 - DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation [[arXiv]](https://arxiv.org/abs/1911.00536)
 - Nakdan: Professional Hebrew Diacritizer [[arXiv]](https://arxiv.org/abs/2005.03312)
 - NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg
 - Photon: A Robust Cross-Domain Text-to-SQL System
 - Tabouid: a Wikipedia-based word guessing game
 
-###evid multilingu knowledg
+### evid multilingu knowledg
 - EVIDENCEMINER: Textual Evidence Discovery for Life Sciences
 - GAIA: A Fine-grained Multimedia Knowledge Extraction System
 - Label Noise in Context
 - Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation
 - Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time [[arXiv]](https://arxiv.org/abs/2005.10865)
 
-###tool model retriev
+### tool model retriev
 - exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models [[arXiv]](https://arxiv.org/abs/1910.05276)
 - Multilingual Universal Sentence Encoder for Semantic Retrieval [[arXiv]](https://arxiv.org/abs/1907.04307)
 - Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines [[arXiv]](https://arxiv.org/abs/2002.02031)
@@ -866,7 +866,7 @@
 - Talk to Papers: Bringing Neural Question Answering to Academic Search [[arXiv]](https://arxiv.org/abs/2004.02002)
 - Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing
 
-###languag natur interact
+### languag natur interact
 - Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations [[arXiv]](https://arxiv.org/abs/1909.00031)
 - LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation [[arXiv]](http://arxiv.org/abs/2004.07499)
 - MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform [[arXiv]](https://arxiv.org/abs/2005.08365)
@@ -876,7 +876,7 @@
 
 ## Student Research Workshop
 
-###compress mesh charact
+### compress mesh charact
 - #NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media
 - A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples
 - AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss
@@ -886,14 +886,14 @@
 - Self-Attention is Not Only a Weight: Analyzing BERT with Vector Norms [[arXiv]](https://arxiv.org/abs/2004.10102)
 - To compress or not to compress? A Finite-State approach to Nen verbal morphology
 
-###topic model social
+### topic model social
 - A Simple and Effective Dependency parser for Telugu
 - Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling
 - Noise-Based Augmentation Techniques for Emotion Datasets: What do we Recommend?
 - Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment
 - Topic balancing with additive regularization of topic models
 
-###sentenc embed label
+### sentenc embed label
 - Adaptive Transformers for Learning Multimodal Representations [[arXiv]](https://arxiv.org/abs/2005.07486)
 - Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition
 - Exploring the Role of Context to Distinguish Rhetorical and Information-Seeking Questions
@@ -901,14 +901,14 @@
 - Understanding Points of Correspondence between Sentences for Abstractive Summarization
 - Unsupervised Multilingual Sentence Embeddings for Parallel Corpus Mining
 
-###translat machin humor
+### translat machin humor
 - Checkpoint Reranking: An Approach To Select Better Hypothesis For Neural Machine Translation Systems
 - Let’s be Humorous: Knowledge Enhanced Humor Generation [[arXiv]](https://arxiv.org/abs/2004.13317)
 - Logical Inferences with Comparatives and Generalized Quantifiers [[arXiv]](https://arxiv.org/abs/2005.07954)
 - Pre-training via Leveraging Assisting Languages for Neural Machine Translation [[arXiv]](https://arxiv.org/abs/2001.08353)
 - Story-level Text Style Transfer: A Proposal
 
-###represent error classif
+### represent error classif
 - Combining Subword Representations into Word-level Representations in the Transformer Architecture
 - Cross-Lingual Disaster-related Multi-label Tweet Classification with Manifold Mixup
 - Effectively Aligning and Filtering Parallel Corpora under Sparse Data Conditions
@@ -918,12 +918,12 @@
 - RPD: A Distance Function Between Word Embeddings [[arXiv]](http://arxiv.org/abs/2005.08113)
 - Unsupervised Paraphasia Classification in Aphasic Speech
 
-###learn transfer word
+### learn transfer word
 - Compositional generalization by factorizing alignment and translation
 - Reflection-based Word Attribute Transfer
 - Research Replication Prediction Using Weakly Supervised Learning
 
-###neural model learn
+### neural model learn
 - Considering Likelihood in NLP Classiﬁcation Explanations with Occlusion and Language Modeling [[arXiv]](https://arxiv.org/abs/2004.09890)
 - Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder
 - Multi-Task Neural Model for Agglutinative Language Translation
@@ -932,7 +932,7 @@
 - Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models
 - Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition
 
-###languag resourc relat
+### languag resourc relat
 - Crossing the Line: Where do Demographic Variables Fit into Humor Detection?
 - Dominance as an Indicator of Rapport and Learning in Human-Agent Communication
 - Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages
