@@ -590,7 +590,7 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 - Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking
 - ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages [[arXiv]](https://arxiv.org/abs/2005.07105)
 
-[Back to Top](#index)
+[Back to Top](#accepted-papers-with-arxiv-link)
 
 ### Short Papers
 
@@ -803,7 +803,7 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 - ``You Sound Just Like Your Father’’ Commercial Machine Translation Systems Include Stylistic Biases
 - ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT
 
-[Back to Top](#index)
+[Back to Top](#accepted-papers-with-arxiv-link)
 
 ### System Demonstrations
 
@@ -851,7 +851,7 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 - What’s The Latest? A Question-driven News Chatbot
 - Xiaomingbot: A Multilingual Robot News Reporter
 
-[Back to Top](#index)
+[Back to Top](#accepted-papers-with-arxiv-link)
 
 ### Student Research Workshop
 
@@ -905,7 +905,7 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 - Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models
 - Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition
 
-[Back to Top](#index)
+[Back to Top](#accepted-papers-with-arxiv-link)
 
 
 ## License
