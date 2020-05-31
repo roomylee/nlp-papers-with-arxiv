@@ -1,0 +1,5 @@
+google
+
+# for topics
+gensim
+nltk
