@@ -1,11 +1,11 @@
-## Long Papers
+### Long Papers
 
 - 2kenize: Tying Subword Sequences for Chinese Script Conversion [[arXiv]](https://arxiv.org/abs/2005.03375)
-- A Batch Normalized Inference Network Keeps the KL Vanishing Away [[arXiv]](https://arxiv.org/abs/2004.12585)
-- A Call for More Rigor in Unsupervised Cross-lingual Learning [[arXiv]](https://arxiv.org/abs/2004.14958)
+- A Batch Normalized Inference Network Keeps the KL Vanishing Away [[arXiv]](http://arxiv.org/abs/2004.12585)
+- A Call for More Rigor in Unsupervised Cross-lingual Learning [[arXiv]](http://arxiv.org/abs/2004.14958)
 - A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks
 - A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking
-- A Corpus for Large-Scale Phonetic Typology
+- A Corpus for Large-Scale Phonetic Typology [[arXiv]](https://arxiv.org/abs/2005.13962)
 - A Formal Hierarchy of RNN Architectures [[arXiv]](https://arxiv.org/abs/2004.08500)
 - A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization
 - A Generative Model for Joint Natural Language Understanding and Generation
@@ -60,11 +60,11 @@
 - Automatic Poetry Generation from Prosaic Text
 - BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps [[arXiv]](https://arxiv.org/abs/2005.04625)
 - Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards [[arXiv]](https://arxiv.org/abs/2005.04245)
-- Balancing Training for Multilingual Neural Machine Translation [[arXiv]](http://arxiv.org/abs/2004.06748)
+- Balancing Training for Multilingual Neural Machine Translation [[arXiv]](https://arxiv.org/abs/2004.06748)
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [[arXiv]](https://arxiv.org/abs/1910.13461)
 - Benchmarking Multimodal Regex Synthesis with Complex Structures [[arXiv]](https://arxiv.org/abs/2005.00663)
 - BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance [[arXiv]](https://arxiv.org/abs/1910.07181)
-- Beyond Accuracy: Behavioral Testing of NLP Models with CheckList [[arXiv]](https://arxiv.org/abs/2005.04118)
+- Beyond Accuracy: Behavioral Testing of NLP Models with CheckList [[arXiv]](http://arxiv.org/abs/2005.04118)
 - Beyond Possession Existence: Duration and Co-Possession
 - Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation [[arXiv]](https://arxiv.org/abs/2005.10716)
 - Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences
@@ -112,8 +112,8 @@
 - Curriculum Pre-training for End-to-End Speech Translation [[arXiv]](https://arxiv.org/abs/2004.10093)
 - Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight [[arXiv]](https://arxiv.org/abs/2004.02594)
 - DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering [[arXiv]](https://arxiv.org/abs/2005.00697)
-- Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting [[arXiv]](https://arxiv.org/abs/2004.14088)
-- Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA [[arXiv]](http://arxiv.org/abs/2005.06409)
+- Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting [[arXiv]](http://arxiv.org/abs/2004.14088)
+- Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA [[arXiv]](https://arxiv.org/abs/2005.06409)
 - Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification
 - DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking [[arXiv]](https://arxiv.org/abs/2004.12864)
 - Detecting Perceived Emotions in Hurricane Disasters [[arXiv]](http://arxiv.org/abs/2004.14299)
@@ -154,8 +154,8 @@
 - Emergence of Syntax Needs Minimal Supervision [[arXiv]](https://arxiv.org/abs/2005.01119)
 - Emerging Cross-lingual Structure in Pretrained Language Models [[arXiv]](https://arxiv.org/abs/1911.01464)
 - Empower Entity Set Expansion via Language Model Probing [[arXiv]](https://arxiv.org/abs/2004.13897)
-- Empowering Active Learning to Jointly Optimize System and User Demands [[arXiv]](http://arxiv.org/abs/2005.04470)
-- End-to-End Bias Mitigation by Modelling Biases in Corpora [[arXiv]](https://arxiv.org/abs/1909.06321)
+- Empowering Active Learning to Jointly Optimize System and User Demands [[arXiv]](https://arxiv.org/abs/2005.04470)
+- End-to-End Bias Mitigation by Modelling Biases in Corpora [[arXiv]](http://arxiv.org/abs/1909.06321)
 - End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2
 - End-to-End Neural Word Alignment Outperforms GIZA++ [[arXiv]](https://arxiv.org/abs/2004.14675)
 - Enhancing Answer Boundary Detection for Multilingual Machine Reading Comprehension [[arXiv]](https://arxiv.org/abs/2004.14069)
@@ -202,14 +202,14 @@
 - Frugal Paradigm Completion
 - Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection [[arXiv]](https://arxiv.org/abs/2004.09036)
 - GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media [[arXiv]](https://arxiv.org/abs/2004.11648)
-- Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer [[arXiv]](https://arxiv.org/abs/2005.00699)
-- Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations
+- Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer [[arXiv]](http://arxiv.org/abs/2005.00699)
+- Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations [[arXiv]](http://arxiv.org/abs/2005.00962)
 - Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus
 - Generalized Entropy Regularization or: There’s Nothing Special about Label Smoothing [[arXiv]](https://arxiv.org/abs/2005.00820)
 - Generalizing Natural Language Analysis through Span-relation Representations [[arXiv]](https://arxiv.org/abs/1911.03822)
 - Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation [[arXiv]](https://arxiv.org/abs/2004.07672)
 - Generating Counter Narratives against Online Hate Speech: Data and Strategies [[arXiv]](https://arxiv.org/abs/2004.04216)
-- Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs
+- Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs [[arXiv]](https://arxiv.org/abs/2005.13837)
 - Generating Fact Checking Explanations [[arXiv]](https://arxiv.org/abs/2004.05773)
 - Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection [[arXiv]](https://arxiv.org/abs/2004.02015)
 - Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy
@@ -226,7 +226,7 @@
 - Hard-Coded Gaussian Attention for Neural Machine Translation [[arXiv]](https://arxiv.org/abs/2005.00742)
 - Harnessing the linguistic signal to predict scalar inferences [[arXiv]](https://arxiv.org/abs/1910.14254)
 - Harvesting and Refining Question-Answer Pairs for Unsupervised QA [[arXiv]](https://arxiv.org/abs/2005.02925)
-- HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
+- HAT: Hardware-Aware Transformers for Efficient Natural Language Processing [[arXiv]](https://arxiv.org/abs/2005.14187?context=cs.NE)
 - He said “who’s gonna take care of your children when you are at ACL?”: Reported Sexist Acts are Not Sexist
 - Heterogeneous Graph Neural Networks for Extractive Document Summarization [[arXiv]](http://arxiv.org/abs/2004.12393)
 - Heterogeneous Graph Transformer for Graph-to-Sequence Learning [[arXiv]](https://arxiv.org/abs/1911.07470)
@@ -236,7 +236,7 @@
 - Highway Transformer: Self-Gating Enhanced Self-Attentive Networks [[arXiv]](https://arxiv.org/abs/2004.08178)
 - Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation
 - History for Visual Dialog: Do we really need it? [[arXiv]](https://arxiv.org/abs/2005.07493)
-- Hooks in the Headline: Learning to Generate Headlines with Controlled Styles [[arXiv]](http://arxiv.org/abs/2004.01980)
+- Hooks in the Headline: Learning to Generate Headlines with Controlled Styles [[arXiv]](https://arxiv.org/abs/2004.01980)
 - How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems
 - How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope
 - How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence [[arXiv]](https://arxiv.org/abs/2004.12158)
@@ -259,7 +259,7 @@
 - Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings
 - Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer
 - Improving Neural Machine Translation with Soft Template Prediction
-- Improving Segmentation for Technical Support Problems [[arXiv]](http://arxiv.org/abs/2005.11055)
+- Improving Segmentation for Technical Support Problems [[arXiv]](https://arxiv.org/abs/2005.11055)
 - Improving Transformer Models by Reordering their Sublayers [[arXiv]](https://arxiv.org/abs/1911.03864)
 - Improving Truthfulness of Headline Generation [[arXiv]](https://arxiv.org/abs/2005.00882)
 - In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts [[arXiv]](https://arxiv.org/abs/2005.07751)
@@ -267,7 +267,7 @@
 - Inflecting when there’s no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals [[arXiv]](https://arxiv.org/abs/2005.08826)
 - Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models [[arXiv]](https://arxiv.org/abs/2005.01190)
 - Information-Theoretic Probing for Linguistic Structure [[arXiv]](http://arxiv.org/abs/2004.03061)
-- INFOTABS: Inference on Tables as Semi-structured Data
+- INFOTABS: Inference on Tables as Semi-structured Data [[arXiv]](https://arxiv.org/abs/2005.06117)
 - Injecting Numerical Reasoning Skills into Language Models [[arXiv]](https://arxiv.org/abs/2004.04487)
 - INSET: Sentence Infilling with INter-SEntential Transformer
 - Integrating Multimodal Information in Large Pretrained Transformers
@@ -285,7 +285,7 @@
 - Iterative Edit-Based Unsupervised Sentence Simplification
 - Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge
 - Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging [[arXiv]](https://arxiv.org/abs/1910.02267)
-- Joint Modelling of Emotion and Abusive Language Detection
+- Joint Modelling of Emotion and Abusive Language Detection [[arXiv]](http://arxiv.org/abs/2005.14028)
 - Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization
 - Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation
 - KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation [[arXiv]](https://arxiv.org/abs/2004.04100)
@@ -312,7 +312,7 @@
 - Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks [[arXiv]](https://arxiv.org/abs/1910.14326)
 - Learning to Deceive with Attention-Based Explanations [[arXiv]](https://arxiv.org/abs/1909.07913)
 - Learning to execute instructions in a Minecraft dialogue
-- Learning to Faithfully Rationalize by Construction [[arXiv]](http://arxiv.org/abs/2005.00115)
+- Learning to Faithfully Rationalize by Construction [[arXiv]](https://arxiv.org/abs/2005.00115)
 - Learning to Identify Follow-Up Questions in Conversational Question Answering
 - Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation
 - Learning to Segment Actions from Observation and Narration [[arXiv]](https://arxiv.org/abs/2005.03684)
@@ -327,19 +327,19 @@
 - Low-Resource Generation of Multi-hop Reasoning Questions
 - Machine Reading of Historical Events
 - Mapping Natural Language Instructions to Mobile UI Action Sequences [[arXiv]](https://arxiv.org/abs/2005.03776)
-- MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning [[arXiv]](http://arxiv.org/abs/2005.05402)
+- MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning [[arXiv]](https://arxiv.org/abs/2005.05402)
 - Masked Language Model Scoring [[arXiv]](https://arxiv.org/abs/1910.14659)
-- MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization [[arXiv]](http://arxiv.org/abs/2004.12302)
+- MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization [[arXiv]](https://arxiv.org/abs/2004.12302)
 - Max-Margin Incremental CCG Parsing
 - Measuring Forecasting Skill from Text
 - Meta-Reinforced Multi-Domain State Generator for Dialogue Systems
 - MIE: A Medical Information Extractor towards Medical Dialogues
-- Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance [[arXiv]](https://arxiv.org/abs/2005.00315)
+- Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance [[arXiv]](http://arxiv.org/abs/2005.00315)
 - MIND: A Large-scale Dataset for News Recommendation
 - MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification [[arXiv]](https://arxiv.org/abs/2004.12239)
 - MLQA: Evaluating Cross-lingual Extractive Question Answering [[arXiv]](https://arxiv.org/abs/1910.07475)
 - MMPE: A Multi-Modal Interface for Post-Editing Machine Translation
-- MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices [[arXiv]](http://arxiv.org/abs/2004.02984)
+- MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices [[arXiv]](https://arxiv.org/abs/2004.02984)
 - Modeling Code-Switch Languages Using Bilingual Parallel Corpus
 - Modeling Morphological Typology for Unsupervised Learning of Language Morphology
 - Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis
@@ -348,7 +348,7 @@
 - Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning [[arXiv]](https://arxiv.org/abs/2005.07064)
 - Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition [[arXiv]](http://arxiv.org/abs/2004.03809)
 - Multi-Cell Compositional LSTM for NER Domain Adaptation
-- Multidirectional Associative Optimization of Function-Specific Word Representations [[arXiv]](https://arxiv.org/abs/2005.05264)
+- Multidirectional Associative Optimization of Function-Specific Word Representations
 - Multi-Domain Dialogue Acts and Response Co-Generation [[arXiv]](http://arxiv.org/abs/2004.12363)
 - Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference
 - Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing [[arXiv]](https://arxiv.org/abs/1911.02692)
@@ -364,7 +364,7 @@
 - Named Entity Recognition without Labelled Data: A Weak Supervision Approach [[arXiv]](https://arxiv.org/abs/2004.14723)
 - NAT: Noise-Aware Training for Robust Neural Sequence Labeling [[arXiv]](https://arxiv.org/abs/2005.07162)
 - Negative Training for Neural Dialogue Response Generation [[arXiv]](https://arxiv.org/abs/1903.02134)
-- Neighborhood Matching Network for Entity Alignment [[arXiv]](https://arxiv.org/abs/2005.05607)
+- Neighborhood Matching Network for Entity Alignment [[arXiv]](http://arxiv.org/abs/2005.05607)
 - NeuInfer: Knowledge Inference on N-ary Facts
 - Neural CRF Model for Sentence Alignment in Text Simplification [[arXiv]](http://arxiv.org/abs/2005.02324)
 - Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence [[arXiv]](https://arxiv.org/abs/2005.01096)
@@ -373,8 +373,8 @@
 - Neural Reranking for Dependency Parsing: An Evaluation
 - Neural Syntactic Preordering for Controlled Paraphrase Generation [[arXiv]](https://arxiv.org/abs/2005.02013)
 - Neural Topic Modeling with Bidirectional Adversarial Training [[arXiv]](http://arxiv.org/abs/2004.12331)
-- NILE : Natural Language Inference with Faithful Natural Language Explanations [[arXiv]](http://arxiv.org/abs/2005.12116)
-- Norm-Based Curriculum Learning for Neural Machine Translation [[arXiv]](https://arxiv.org/abs/1903.09848)
+- NILE : Natural Language Inference with Faithful Natural Language Explanations [[arXiv]](https://arxiv.org/abs/2005.12116?context=cs)
+- Norm-Based Curriculum Learning for Neural Machine Translation
 - Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses [[arXiv]](https://arxiv.org/abs/1911.03850)
 - Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection [[arXiv]](https://arxiv.org/abs/2004.07667)
 - Obtaining Faithful Interpretations from Compositional Neural Networks [[arXiv]](https://arxiv.org/abs/2005.00724)
@@ -396,7 +396,7 @@
 - Parsing into Variable-in-situ Logico-Semantic Graphs
 - Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT [[arXiv]](http://arxiv.org/abs/2004.14786)
 - PeTra: A Sparsely Supervised Memory Model for People Tracking [[arXiv]](http://arxiv.org/abs/2005.02990)
-- Phone Features Improve Speech Translation
+- Phone Features Improve Speech Translation [[arXiv]](https://arxiv.org/abs/2005.13681)
 - Phonetic and Visual Priors for Decipherment of Informal Romanization [[arXiv]](https://arxiv.org/abs/2005.02517)
 - PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable [[arXiv]](https://arxiv.org/abs/1910.07931)
 - Politeness Transfer: A Tag and Generate Approach
@@ -423,7 +423,7 @@
 - QuASE: Question-Answer Driven Sentence Encoding [[arXiv]](http://arxiv.org/abs/1909.00333)
 - R^3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge [[arXiv]](https://arxiv.org/abs/2004.13248)
 - Rationalizing Medical Relation Prediction from Corpus-level Statistics [[arXiv]](https://arxiv.org/abs/2005.00889)
-- Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport [[arXiv]](https://arxiv.org/abs/2005.13111)
+- Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport [[arXiv]](http://arxiv.org/abs/2005.13111)
 - RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers [[arXiv]](https://arxiv.org/abs/1911.04942)
 - Reasoning Over Semantic-Level Graph for Fact Checking [[arXiv]](https://arxiv.org/abs/1909.03745)
 - Reasoning with Latent Structure Refinement for Document-Level Relation Extraction [[arXiv]](https://arxiv.org/abs/2005.06312)
@@ -452,13 +452,13 @@
 - schuBERT: Optimizing Elements of BERT [[arXiv]](https://arxiv.org/abs/2005.06628)
 - SciREX: A Challenge Dataset for Document-Level Information Extraction [[arXiv]](https://arxiv.org/abs/2005.00512)
 - Screenplay Summarization Using Latent Narrative Structure [[arXiv]](https://arxiv.org/abs/2004.12727)
-- ScriptWriter: Narrative-Guided Script Generation [[arXiv]](http://arxiv.org/abs/2005.10331)
-- SEEK: Segmented Embedding of Knowledge Graphs [[arXiv]](http://arxiv.org/abs/2005.00856)
+- ScriptWriter: Narrative-Guided Script Generation [[arXiv]](https://arxiv.org/abs/2005.10331)
+- SEEK: Segmented Embedding of Knowledge Graphs [[arXiv]](https://arxiv.org/abs/2005.00856)
 - Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation [[arXiv]](http://arxiv.org/abs/2005.00308)
 - Selective Question Answering under Domain Shift
 - Semantic Graphs for Generating Deep Questions [[arXiv]](https://arxiv.org/abs/2004.12704)
 - Semantic Parsing for English as a Second Language
-- Semantic Scaffolds for Pseudocode-to-Code Generation [[arXiv]](https://arxiv.org/abs/2005.05927)
+- Semantic Scaffolds for Pseudocode-to-Code Generation [[arXiv]](http://arxiv.org/abs/2005.05927)
 - Semi-supervised Contextual Historical Text Normalization
 - Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation [[arXiv]](https://arxiv.org/abs/2005.04379)
 - Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders
@@ -492,7 +492,7 @@
 - Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization
 - Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset
 - Structural Information Preserving for Graph-to-Text Generation
-- Structured Tuning for Semantic Role Labeling [[arXiv]](http://arxiv.org/abs/2005.00496)
+- Structured Tuning for Semantic Role Labeling [[arXiv]](https://arxiv.org/abs/2005.00496)
 - Structure-Level Knowledge Distillation For Multilingual Sequence Labeling [[arXiv]](http://arxiv.org/abs/2004.03846)
 - Suspense in Short Stories is Predicted By Uncertainty Reduction over Neural Story Representation [[arXiv]](https://arxiv.org/abs/2004.14905)
 - Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction
@@ -506,7 +506,7 @@
 - Target Inference in Argument Conclusion Generation
 - Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer
 - Tchebycheff Procedure for Multi-task Text Classification
-- Temporal Common Sense Acquisition with Minimal Supervision [[arXiv]](http://arxiv.org/abs/2005.04304)
+- Temporal Common Sense Acquisition with Minimal Supervision [[arXiv]](https://arxiv.org/abs/2005.04304)
 - Temporally-Informed Analysis of Named Entity Recognition
 - Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates [[arXiv]](http://arxiv.org/abs/2005.00649)
 - Text-Based Ideal Points [[arXiv]](https://arxiv.org/abs/2005.04232)
@@ -537,7 +537,7 @@
 - Towards Unsupervised Language Understanding and Generation by Joint Dual Learning [[arXiv]](http://arxiv.org/abs/2004.14710)
 - Toxicity Detection: Does Context Really Matter?
 - Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction
-- Transition-based Semantic Dependency Parsing with Pointer Networks [[arXiv]](http://arxiv.org/abs/2005.13344)
+- Transition-based Semantic Dependency Parsing with Pointer Networks [[arXiv]](https://arxiv.org/abs/2005.13344)
 - Translationese as a Language in “Multilingual” NMT [[arXiv]](https://arxiv.org/abs/1911.03823)
 - TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition
 - TVQA+: Spatio-Temporal Grounding for Video Question Answering [[arXiv]](https://arxiv.org/abs/1904.11574)
@@ -545,12 +545,12 @@
 - Uncertainty-Aware Curriculum Learning for Neural Machine Translation [[arXiv]](https://arxiv.org/abs/1903.09848)
 - Understanding Attention for Text Classification
 - Understanding the Language of Political Agreement and Disagreement in Legislative Texts
-- Universal Decompositional Semantic Parsing [[arXiv]](https://arxiv.org/abs/1910.10138)
+- Universal Decompositional Semantic Parsing
 - Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification
 - Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering [[arXiv]](https://arxiv.org/abs/2005.01218)
 - Unsupervised Cross-lingual Representation Learning at Scale [[arXiv]](https://arxiv.org/abs/1911.02116)
 - Unsupervised Domain Clusters in Pretrained Language Models [[arXiv]](https://arxiv.org/abs/2004.02105)
-- Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing [[arXiv]](https://arxiv.org/abs/2005.13485)
+- Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing [[arXiv]](http://arxiv.org/abs/2005.13485)
 - Unsupervised Morphological Paradigm Completion [[arXiv]](http://arxiv.org/abs/2005.00970)
 - Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting [[arXiv]](http://arxiv.org/abs/2005.03119)
 - Unsupervised Opinion Summarization as Copycat-Review Generation [[arXiv]](https://arxiv.org/abs/1911.02247)
@@ -558,7 +558,7 @@
 - Unsupervised Paraphrasing by Simulated Annealing [[arXiv]](https://arxiv.org/abs/1909.03588)
 - USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation [[arXiv]](https://arxiv.org/abs/2005.00456)
 - Weight Poisoning Attacks on Pretrained Models [[arXiv]](https://arxiv.org/abs/2004.06660)
-- What are the Goals of Distributional Semantics? [[arXiv]](https://arxiv.org/abs/2005.02982)
+- What are the Goals of Distributional Semantics? [[arXiv]](http://arxiv.org/abs/2005.02982)
 - What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks
 - What Question Answering can Learn from Trivia Nerds [[arXiv]](https://arxiv.org/abs/1910.14464)
 - What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context [[arXiv]](http://arxiv.org/abs/2005.04518)
@@ -572,7 +572,7 @@
 - Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking
 - ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages [[arXiv]](https://arxiv.org/abs/2005.07105)
 
-## Short Papers
+### Short Papers
 
 - A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle
 - A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers
@@ -611,10 +611,10 @@
 - Code-switching patterns can be an effective route to improve performance of downstream NLP applications: A case study of humour, sarcasm and hate speech detection [[arXiv]](http://arxiv.org/abs/2005.02295)
 - Composing Elementary Discourse Units in Abstractive Summarization
 - Content Word Aware Neural Machine Translation
-- Contextual Embeddings: When Are They Worth It? [[arXiv]](https://arxiv.org/abs/2005.09117)
+- Contextual Embeddings: When Are They Worth It?
 - Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns [[arXiv]](https://arxiv.org/abs/2004.09894)
 - Contextualized Sparse Representations for Real-Time Open-Domain Question Answering [[arXiv]](https://arxiv.org/abs/1911.02896)
-- Contextualizing Hate Speech Classifiers with Post-hoc Explanation [[arXiv]](https://arxiv.org/abs/2005.02439)
+- Contextualizing Hate Speech Classifiers with Post-hoc Explanation [[arXiv]](http://arxiv.org/abs/2005.02439)
 - Contrastive Self-Supervised Learning for Commonsense Reasoning [[arXiv]](https://arxiv.org/abs/2005.00669)
 - Controlled Crowdsourcing for High-Quality QA-SRL Annotation [[arXiv]](https://arxiv.org/abs/1911.03243)
 - Conversational Word Embedding for Retrieval-Based Dialog System [[arXiv]](https://arxiv.org/abs/2004.13249)
@@ -635,9 +635,9 @@
 - Embarrassingly Simple Unsupervised Aspect Extraction [[arXiv]](https://arxiv.org/abs/2004.13580)
 - Enabling Language Models to Fill in the Blanks [[arXiv]](https://arxiv.org/abs/2005.05339)
 - Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction [[arXiv]](https://arxiv.org/abs/2005.00987)
-- ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation [[arXiv]](https://arxiv.org/abs/2005.00850)
+- ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation [[arXiv]](http://arxiv.org/abs/2005.00850)
 - Enhancing Machine Translation with Dependency-Aware Self-Attention [[arXiv]](http://arxiv.org/abs/1909.03149)
-- Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention [[arXiv]](http://arxiv.org/abs/1911.02821)
+- Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention [[arXiv]](https://arxiv.org/abs/1911.02821)
 - Enriched In-Order Linearization for Faster Sequence-to-Sequence Constituent Parsing [[arXiv]](http://arxiv.org/abs/2005.13334)
 - Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification
 - Estimating Mutual Information Between Dense Word Embeddings
@@ -649,11 +649,11 @@
 - Exploring Content Selection in Summarization of Novel Chapters [[arXiv]](https://arxiv.org/abs/2005.01840)
 - Fact-based Content Weighting for Evaluating Abstractive Summarisation
 - Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concepts
-- Few-Shot NLG with Pre-Trained Language Model [[arXiv]](https://arxiv.org/abs/1904.09521)
-- FLAT: Chinese NER Using Flat-Lattice Transformer [[arXiv]](http://arxiv.org/abs/2004.11795)
+- Few-Shot NLG with Pre-Trained Language Model [[arXiv]](http://arxiv.org/abs/1904.09521)
+- FLAT: Chinese NER Using Flat-Lattice Transformer [[arXiv]](https://arxiv.org/abs/2004.11795)
 - GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples
 - Geometry-aware domain adaptation for unsupervised alignment of word embeddings [[arXiv]](https://arxiv.org/abs/2004.08243)
-- Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis? [[arXiv]](http://arxiv.org/abs/2005.13213)
+- Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis? [[arXiv]](https://arxiv.org/abs/2005.13213)
 - Glyph2Vec: Learning Chinese Out-of-Vocabulary Word Embedding from Glyphs
 - GPT-too: A language-model-first approach for AMR-to-text generation [[arXiv]](https://arxiv.org/abs/2005.09123)
 - How Can We Accelerate Progress Towards Human-like Linguistic Generalization? [[arXiv]](https://arxiv.org/abs/2005.00955)
@@ -664,7 +664,7 @@
 - Improving Entity Linking through Semantic Reinforced Entity Embeddings
 - Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling
 - Improving Non-autoregressive Neural Machine Translation with Monolingual Data [[arXiv]](https://arxiv.org/abs/2005.00932)
-- Incorporating External Knowledge through Pre-training for Natural Language to Code Generation [[arXiv]](http://arxiv.org/abs/2004.09015)
+- Incorporating External Knowledge through Pre-training for Natural Language to Code Generation [[arXiv]](https://arxiv.org/abs/2004.09015)
 - Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition [[arXiv]](https://arxiv.org/abs/2004.14514)
 - Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder
 - Interpreting Twitter User Geolocation
@@ -688,7 +688,7 @@
 - Low Resource Sequence Tagging using Sentence Reconstruction
 - Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations [[arXiv]](https://arxiv.org/abs/1910.03065)
 - Masking Actor Information Leads to Fairer Political Claims Detection
-- Meta-Transfer Learning for Code-Switched Speech Recognition [[arXiv]](https://arxiv.org/abs/2004.14228)
+- Meta-Transfer Learning for Code-Switched Speech Recognition [[arXiv]](http://arxiv.org/abs/2004.14228)
 - Mitigating Gender Bias Amplification in Distribution by Posterior Regularization [[arXiv]](https://arxiv.org/abs/2005.06251)
 - Modeling Label Semantics for Predicting Emotional Reactions
 - Modeling Long Context for Task-Oriented Dialogue State Generation [[arXiv]](https://arxiv.org/abs/2004.14080)
@@ -700,7 +700,7 @@
 - Named Entity Recognition as Dependency Parsing [[arXiv]](https://arxiv.org/abs/2005.07150)
 - Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly [[arXiv]](https://arxiv.org/abs/1911.03343)
 - Neural Graph Matching Networks for Chinese Short Text Matching
-- Neural Temporal Opinion Modelling for Opinion Prediction on Twitter [[arXiv]](http://arxiv.org/abs/2005.13486)
+- Neural Temporal Opinion Modelling for Opinion Prediction on Twitter [[arXiv]](https://arxiv.org/abs/2005.13486)
 - Neural-DINF: A Neural Network based Framework for Measuring Document Inﬂuence
 - Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces
 - “None of the Above”: Measure Uncertainty in Dialog Response Retrieval [[arXiv]](https://arxiv.org/abs/2004.01926)
@@ -712,7 +712,7 @@
 - OpinionDigest: A Simple Framework for Opinion Summarization [[arXiv]](https://arxiv.org/abs/2005.01901)
 - Opportunistic Decoding with Timely Correction for Simultaneous Translation [[arXiv]](https://arxiv.org/abs/2005.00675)
 - Overestimation of Syntactic Representation in Neural Language Models [[arXiv]](https://arxiv.org/abs/2004.05067)
-- Parallel Data Augmentation for Formality Style Transfer [[arXiv]](http://arxiv.org/abs/2005.07522)
+- Parallel Data Augmentation for Formality Style Transfer [[arXiv]](https://arxiv.org/abs/2005.07522)
 - Parallel Sentence Mining by Constrained Decoding
 - Posterior Calibrated Training on Sentence Classification Tasks [[arXiv]](https://arxiv.org/abs/2004.14500)
 - Predicting Degrees of Technicality in Automatic Terminology Extraction
@@ -733,24 +733,24 @@
 - Self-Attention Guided Copy Mechanism for Abstractive Summarization
 - Self-Attention with Cross-Lingual Position Representation [[arXiv]](https://arxiv.org/abs/2004.13310)
 - Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity [[arXiv]](https://arxiv.org/abs/1911.03700)
-- Shape of synth to come: Why we should use synthetic data for English surface realization
+- Shape of synth to come: Why we should use synthetic data for English surface realization [[arXiv]](http://arxiv.org/abs/2005.02693)
 - Shaping Visual Representations with Language for Few-Shot Classification [[arXiv]](https://arxiv.org/abs/1911.02683)
 - Showing Your Work Doesn’t Always Work [[arXiv]](https://arxiv.org/abs/2004.13705)
 - Simple and Effective Retrieve-Edit-Rerank Text Generation
 - Simultaneous Translation Policies: From Fixed to Adaptive [[arXiv]](http://arxiv.org/abs/2004.13169)
-- Single Model Ensemble using Pseudo-Tags and Distinct Vectors [[arXiv]](http://arxiv.org/abs/2005.00879)
+- Single Model Ensemble using Pseudo-Tags and Distinct Vectors [[arXiv]](https://arxiv.org/abs/2005.00879)
 - Smart To-Do: Automatic Generation of To-Do Items from Emails
 - Social Biases in NLP Models as Barriers for Persons with Disabilities [[arXiv]](http://arxiv.org/abs/2005.00813)
 - Soft Gazetteers for Low-Resource Named Entity Recognition [[arXiv]](https://arxiv.org/abs/2005.01866)
 - Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations [[arXiv]](https://arxiv.org/abs/2005.08866)
 - Stolen Probability: A Structural Weakness of Neural Language Models [[arXiv]](http://arxiv.org/abs/2005.02433)
 - Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture [[arXiv]](https://arxiv.org/abs/2005.03454)
-- SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization [[arXiv]](http://arxiv.org/abs/2005.03724)
+- SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization [[arXiv]](https://arxiv.org/abs/2005.03724)
 - Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi [[arXiv]](https://arxiv.org/abs/2004.10353)
 - Syntactic Data Augmentation Increases Robustness to Inference Heuristics [[arXiv]](https://arxiv.org/abs/2004.11999)
 - Tagged Back-translation Revisited: Why Does It Really Work?
 - tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection
-- Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering [[arXiv]](http://arxiv.org/abs/2004.11892)
+- Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering [[arXiv]](https://arxiv.org/abs/2004.11892)
 - Tetra-Tagging: Word-Synchronous Parsing with Linear-Time Inference [[arXiv]](https://arxiv.org/abs/1904.09745)
 - Text Classification with Negative Supervision
 - To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks
@@ -769,11 +769,11 @@
 - Understanding Advertisements with BERT
 - Unsupervised FAQ Retrieval with Question Generation and BERT
 - Using Context in Neural Machine Translation Training Objectives [[arXiv]](https://arxiv.org/abs/2005.01483)
-- Variational Neural Machine Translation with Normalizing Flows
+- Variational Neural Machine Translation with Normalizing Flows [[arXiv]](http://arxiv.org/abs/2005.13978)
 - Verbal Multiword Expressions for Identification of Metaphor
 - Video-Grounded Dialogues with Pretrained Generation Language Models
 - What Does BERT with Vision Look At?
-- What is Learned in Visually Grounded Neural Syntax Acquisition [[arXiv]](https://arxiv.org/abs/1906.02890)
+- What is Learned in Visually Grounded Neural Syntax Acquisition [[arXiv]](https://arxiv.org/abs/2005.01678)
 - Why Overfitting Isn’t Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries [[arXiv]](https://arxiv.org/abs/2005.00524)
 - Will-They-Won’t-They: A Very Large Dataset for Stance Detection on Twitter [[arXiv]](https://arxiv.org/abs/2005.00388)
 - Words aren’t enough, their order matters: On the Robustness of Grounding Visual Referring Expressions [[arXiv]](https://arxiv.org/abs/2005.01655)
@@ -783,7 +783,7 @@
 - ``You Sound Just Like Your Father’’ Commercial Machine Translation Systems Include Stylistic Biases
 - ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT
 
-## System Demonstrations
+### System Demonstrations
 
 - ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents [[arXiv]](http://arxiv.org/abs/2005.01777)
 - BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab
@@ -792,7 +792,7 @@
 - Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems [[arXiv]](https://arxiv.org/abs/2004.04305)
 - ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems [[arXiv]](https://arxiv.org/abs/2002.04793)
 - DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation [[arXiv]](https://arxiv.org/abs/1911.00536)
-- Embedding-based Scientific Literature Discovery in a Text Editor Application [[arXiv]](http://arxiv.org/abs/2005.04961)
+- Embedding-based Scientific Literature Discovery in a Text Editor Application [[arXiv]](https://arxiv.org/abs/2005.04961)
 - ESPnet-ST: All-in-One Speech Translation Toolkit [[arXiv]](https://arxiv.org/abs/2004.10234)
 - EVIDENCEMINER: Textual Evidence Discovery for Life Sciences
 - exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models [[arXiv]](https://arxiv.org/abs/1910.05276)
@@ -824,12 +824,12 @@
 - TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing [[arXiv]](https://arxiv.org/abs/2002.12620)
 - The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding [[arXiv]](https://arxiv.org/abs/2002.07972)
 - Torch-Struct: Deep Structured Prediction Library [[arXiv]](https://arxiv.org/abs/2002.00876)
-- Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time [[arXiv]](http://arxiv.org/abs/2005.10865)
+- Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time [[arXiv]](https://arxiv.org/abs/2005.10865)
 - Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing
 - What’s The Latest? A Question-driven News Chatbot
 - Xiaomingbot: A Multilingual Robot News Reporter
 
-## Student Research Workshop
+### Student Research Workshop
 
 - #NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media
 - A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples
