@@ -603,7 +603,7 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 
 - A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle
 - A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers
-- A Frame-based Sentence Representation for Machine Reading Comprehension
+- A Frame-based Sentence Representation for Machine Reading Comprehension [[oar.a-star]](https://oar.a-star.edu.sg/jspui/bitstream/123456789/4065/1/acl2020.4.6.pdf)
 - A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal [[arXiv]](https://arxiv.org/abs/2005.10070)
 - A Multi-Perspective Architecture for Semantic Code Search
 - A negative case analysis of visual grounding methods for VQA [[arXiv]](https://arxiv.org/abs/2004.05704)
