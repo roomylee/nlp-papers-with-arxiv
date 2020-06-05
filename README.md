@@ -10,6 +10,8 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 
 ![rate](figure/acceptance.png)
 
+- [ACL2020: General Conference Statistics](https://acl2020.org/blog/general-conference-statistics/)
+
 ## ACL 2020 Paper Keywords
 
 ![keywords](figure/keywords.png)
