@@ -309,7 +309,7 @@ Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arX
 - iSarcasm: A Dataset of Intended Sarcasm [[arXiv]](https://arxiv.org/abs/1911.03123)
 - It Takes Two to Lie: One to Lie, and One to Listen
 - It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations [[arXiv]](https://arxiv.org/abs/2005.04364)
-- Iterative Edit-Based Unsupervised Sentence Simplification
+- Iterative Edit-Based Unsupervised Sentence Simplification [[arXiv]](https://arxiv.org/abs/2006.09639)
 - Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge
 - Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging [[arXiv]](https://arxiv.org/abs/1910.02267)
 - Joint Modelling of Emotion and Abusive Language Detection [[arXiv]](http://arxiv.org/abs/2005.14028)
