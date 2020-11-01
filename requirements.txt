@@ -1,5 +1,3 @@
 google
-
-# for topics
-gensim
-nltk
+matplotlib
+wordcloud
