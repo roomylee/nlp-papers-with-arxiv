@@ -6,6 +6,19 @@
 
 ![keywords](figure/keywords.png)
 
+## Best Paper Candidates
+
+- **Unsupervised Discovery of Implicit Gender Bias**, *Anjalie Field and Yulia Tsvetkov*, <https://arxiv.org/abs/2004.08361>
+- **Don't Use English Dev: On the Zero-Shot Cross-Lingual Evaluation of Contextual Embeddings**, *Phillip Keung, Yichao Lu, Julian Salazar and Vikas Bhardwaj*, <https://arxiv.org/abs/2004.15001>
+- **GLUCOSE: GeneraLized and COntextualized Story Explanations**, *Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran and Jennifer Chu-Carroll*, <https://arxiv.org/abs/2009.07758>
+- **If beam search is the answer, what was the question?**, *Clara Meister, Ryan Cotterell and Tim Vieira*, <https://arxiv.org/abs/2010.02650>
+- **Pareto Probing: Trading Off Accuracy for Complexity**, *Tiago Pimentel, Naomi Saphra, Adina Williams and Ryan Cotterell*, <https://arxiv.org/abs/2010.02180>
+- **Digital Voicing of Silent Speech**, *David Gaddy and Dan Klein*, <https://arxiv.org/abs/2010.02960>
+- **Does the Objective Matter? Comparing Training Objectives for Pronoun Resolution**, *Yordan Yordanov, Oana-Maria Camburu, Vid Kocijan and Thomas Lukasiewicz*, <https://arxiv.org/abs/2010.02570>
+- **Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems**, *Jan Deriu, Don Tuggener, Pius von Däniken, Jon Ander Campos, Alvaro Rodrigo, Thiziri Belkacem, Aitor Soroa, Eneko Agirre and Mark Cieliebak*, <https://arxiv.org/abs/2010.02140>
+- **Visually Grounded Compound PCFGs**, *Yanpeng Zhao and Ivan Titov*, <https://arxiv.org/abs/2009.12404>
+- **Keeping Up Appearances: Computational Modeling of Face Acts in Persuasion Oriented Discussions**, *Ritam Dutt, Rishabh Joshi and Carolyn Rose*, <https://arxiv.org/abs/2009.10815>
+
 ## Accepted Papers
 
 There are accepted papers of [EMNLP 2020](https://2020.emnlp.org/) with arXiv link.
