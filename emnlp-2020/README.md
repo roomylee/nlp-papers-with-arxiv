@@ -52,7 +52,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[M-L]` **Measuring Information Propagation in Literary Social Networks**, *Matthew Sims and David Bamman*, <https://arxiv.org/abs/2004.13980>
 - `[M-L]` **Modeling Protagonist Emotions for Emotion-Aware Storytelling**, *Faeze Brahman and Snigdha Chaturvedi*, <https://arxiv.org/abs/2010.06822>
 - `[M-L]` **Help! Need Advice on Identifying Advice**, *Venkata Subrahmanyan Govindarajan, Benjamin Chen, Rebecca Warholic, Katrin Erk and Junyi Jessy Li*, <https://arxiv.org/abs/2010.02494>
-- `[M-L]` **HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media**, *Hsin-Yu Chen and Cheng-Te Li*, <http://arxiv.org/abs/2010.04576?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29>
+- `[M-L]` **HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media**, *Hsin-Yu Chen and Cheng-Te Li*, <http://arxiv.org/abs/2010.04576>
 - `[M-L]` **Explainable Automated Fact-Checking for Public Health Claims**, *Neema Kotonya and Francesca Toni*, <http://arxiv.org/abs/2010.09926>
 - `[M-L]` **Quantifying Intimacy in Language**, *Jiaxin Pei and David Jurgens*
 - `[M-L]` **Coupled Hierarchical Transformer for Stance-Aware Rumor Verification in Social Media Conversations**, *Jianfei Yu, Jing Jiang, Ling Min Serena Khoo, Hai Leong Chieu and Rui Xia*
@@ -245,7 +245,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[M-L]` **Event Extraction as Machine Reading Comprehension**, *Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu*
 - `[M-L]` **MAVEN: A Massive General Domain Event Detection Dataset**, *Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin and Jie Zhou*, <https://arxiv.org/abs/2004.13590>
 - `[M-L]` **Knowledge-guided Open Attribute Value Extraction with Reinforcement Learning**, *Ye Liu, Sheng Zhang, Rui Song, Suo Feng and Yanghua Xiao*, <https://arxiv.org/abs/2010.09189>
-- `[M-L]` **DualTKB: A Dual Learning Bridge between Text and Knowledge Base**, *Pierre Dognin, Igor Melnyk, Inkit Padhi, Cicero Nogueira dos Santos and Payel Das*, <http://arxiv.org/abs/2010.14660?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29>
+- `[M-L]` **DualTKB: A Dual Learning Bridge between Text and Knowledge Base**, *Pierre Dognin, Igor Melnyk, Inkit Padhi, Cicero Nogueira dos Santos and Payel Das*, <http://arxiv.org/abs/2010.14660>
 - `[M-L]` **Weakly Supervised Subevent Knowledge Acquisition**, *Wenlin Yao, Zeyu Dai, Maitreyi Ramaswamy, Bonan Min and Ruihong Huang*
 - `[M-L]` **Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification**, *Shyam Subramanian and Kyumin Lee*, <https://arxiv.org/abs/2010.05111>
 - `[M-L]` **Biomedical Event Extraction as Sequence Labeling**, *Alan Ramponi, Rob van der Goot, Rosario Lombardo and Barbara Plank*
@@ -277,7 +277,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[M-S]` **Denoising Relation Extraction from Document-level Distant Supervision**, *Chaojun Xiao, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Maosong Sun, Fen Lin and Leyu Lin*
 - `[M-S]` **Exploring Contextualized Neural Language Models for Temporal Dependency Parsing**, *Hayley Ross, Jonathon Cai and Bonan Min*, <https://arxiv.org/abs/2004.14577>
 - `[M-S]` **Semi-supervised New Event Type Induction and Event Detection**, *Lifu Huang and Heng Ji*
-- `[M-S]` **Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data**, **, <https://arxiv.org/abs/2010.03656>
+- `[M-S]` **Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data**, *Shachar Rosenman, Alon Jacovi and Yoav Goldberg*, <https://arxiv.org/abs/2010.03656>
 - `[M-S]` **Constrained Fact Verification for FEVER**, *Adithya Pratapa, Sai Muralidhar Jayanthi and Kavya Nerella*
 - `[M-S]` **Introducing a New Dataset for Event Detection in Cybersecurity Texts**, *Hieu Man Duc Trong, Duc Trong Le, Amir Pouran Ben Veyseh, Thuat Nguyen and Thien Huu Nguyen*
 - `[M-S]` **Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks**, *Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen*, <https://arxiv.org/abs/2010.14123>
@@ -309,7 +309,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[F-S]` **Dynamically Updating Event Representations for Temporal Relation Classification with Multi-category Learning**, *Fei Cheng, Masayuki Asahara, Ichiro Kobayashi and Sadao Kurohashi*
 - `[F-S]` **Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling**, *Zhenghao Liu, Chenyan Xiong, Zhuyun Dai, Si Sun, Maosong Sun and Zhiyuan Liu*
 - `[F-S]` **Improving Event Duration Prediction via Time-aware Pre-training**, *Zonglin Yang, Xinya Du, Alexander Rush and Claire Cardie*
-- `[F-S]` **Resource-Enhanced Neural Model for Event Argument Extraction**, *Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros and Yaser Al-Onaizan*, <http://arxiv.org/abs/2010.03022?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29>
+- `[F-S]` **Resource-Enhanced Neural Model for Event Argument Extraction**, *Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros and Yaser Al-Onaizan*, <http://arxiv.org/abs/2010.03022>
 - `[F-S]` **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning**, *Lu Zhang, Mo Yu, Tian Gao and yue yu*, <https://arxiv.org/abs/2010.01735>
 - `[F-S]` **Weakly- and Semi-supervised Evidence Extraction**, *Danish Pruthi, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton*
 - `[F-S]` **The Dots Have Their Values: Exploiting the Node-Edge Connections in Graph-based Neural Models for Document-level Relation Extraction**, *Hieu Minh Tran, Minh Trung Nguyen and Thien Huu Nguyen*
@@ -354,7 +354,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[F-L]` **HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification**, *Yichen Jiang, Shikha Bordia, ZHENG ZHONG, Charles Dognin, Maneesh Singh and Mohit Bansal*
 - `[F-L]` **Denoising Multi-Source Weak Supervision for Neural Text Classification**, *Wendi Ren, Yinghao Li, Hanting Su, David Kartchner, Cassie Mitchell and Chao Zhang*, <https://arxiv.org/abs/2010.04582>
 - `[F-L]` **Making Information Seeking Easier: An Improved Pipeline for Conversational Search**, *Vaibhav Kumar and Jamie Callan*
-- `[F-L]` **Adversarial Training for Code Retrieval with Question-Description Relevance Regularization**, *Jie Zhao and Huan Sun*, <https://arxiv.org/abs/2010.09803?context=cs.AI>
+- `[F-L]` **Adversarial Training for Code Retrieval with Question-Description Relevance Regularization**, *Jie Zhao and Huan Sun*, <https://arxiv.org/abs/2010.09803>
 - `[F-L]` **Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information**, *Yuyang Nie, Yuanhe Tian, Yan Song, Xiang Ao and Xiang Wan*, <https://arxiv.org/abs/2010.15466>
 - `[F-L]` **Contract Discovery: Dataset and a Few-Shot Semantic Retrieval Challenge with Competitive Baselines**, *Łukasz Borchmann, Dawid Wisniewski, Andrzej Gretkowski, Izabela Kosmala, Dawid Jurkiewicz, Łukasz Szałkiewicz, Gabriela Pałka, Karol Kaczmarek, Agnieszka Kaliska and Filip Graliński*, <https://arxiv.org/abs/1911.03911>
 - `[F-L]` **BERT for Monolingual and Cross-Lingual Reverse Dictionary**, *Hang Yan, Xiaonan Li, Xipeng Qiu and bocao deng*, <https://arxiv.org/abs/2009.14790>
@@ -428,7 +428,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[F-S]` **Robustness to Modification with Shared Words in Paraphrase Identification**, *Zhouxing Shi and Minlie Huang*, <https://arxiv.org/abs/1909.02560>
 - `[F-S]` **Investigating Transferability in Pretrained Language Models**, *Alex Tamkin, Trisha Singh, Davide Giovanardi and Noah Goodman*, <https://arxiv.org/abs/2004.14975>
 - `[F-S]` **Inserting Information Bottlenecks for Attribution in Transformers**, *Zhiying Jiang, Raphael Tang, Ji Xin and Jimmy Lin*
-- `[F-S]` **How Can Self-Attention Networks Recognize Dyck-n Languages?**, *Javid Ebrahimi, Dhruv Gelda and Wei Zhang*, <https://arxiv.org/abs/2010.04303?context=cs.LG>
+- `[F-S]` **How Can Self-Attention Networks Recognize Dyck-n Languages?**, *Javid Ebrahimi, Dhruv Gelda and Wei Zhang*, <https://arxiv.org/abs/2010.04303>
 - `[F-S]` **Do Language Embeddings capture Scales?**, *Xikun Zhang, Deepak Ramachandran, Ian Tenney, Yanai Elazar and Dan Roth*, <https://arxiv.org/abs/2010.05345>
 
 [Back to Top](#accepted-papers)
@@ -657,7 +657,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[M-S]` **The Thieves on Sesame Street are Polyglots - Extracting Multilingual Models from Monolingual APIs**, *Nitish Shirish Keskar, Bryan McCann, Caiming Xiong and Richard Socher*
 - `[M-S]` **Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games**, *Subhajit Chaudhury, Daiki Kimura, Kartik Talamadupula, Michiaki Tatsubori, Asim Munawar and Ryuki Tachibana*, <https://arxiv.org/abs/2009.11896>
 - `[M-S]` **PatchBERT: Just-in-Time, Out-of-Vocabulary Patching**, *Sangwhan Moon and Naoaki Okazaki*
-- `[M-S]` **On the importance of pre-training data volume for compact language models**, *Vincent Micheli, Martin d'Hoffschmidt and François Fleuret*, <http://arxiv.org/abs/2010.03813?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29>
+- `[M-S]` **On the importance of pre-training data volume for compact language models**, *Vincent Micheli, Martin d'Hoffschmidt and François Fleuret*, <http://arxiv.org/abs/2010.03813>
 - `[M-S]` **Sequence-Level Mixed Sample Data Augmentation**, *Demi Guo, Yoon Kim and Alexander Rush*
 - `[M-S]` **Structure Aware Negative Sampling in Knowledge Graphs**, *Kian Ahrabian, Aarash Feizi, Yasmin Salehi, William L. Hamilton and Avishek Joey Bose*, <https://arxiv.org/abs/2009.11355>
 - `[M-S]` **Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs**, *Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall*, <https://arxiv.org/abs/2010.07459>
@@ -1299,7 +1299,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[M-L]` **Discontinuous Constituent Parsing as Sequence Labeling**, *David Vilares and Carlos Gómez-Rodríguez*, <https://arxiv.org/abs/2010.00633>
 - `[M-L]` **UDapter: Language Adaptation for Truly Universal Dependency Parsing**, *Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord*, <https://arxiv.org/abs/2004.14327>
 - `[M-L]` **Uncertainty-Aware Label Reﬁnement for Sequence Labeling**, *Tao Gui, Jiacheng Ye, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang*
-- `[M-L]` **Unsupervised Parsing via Constituency Tests**, *Steven Cao, Nikita Kitaev and Dan Klein*, <http://arxiv.org/abs/2010.03146?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29>
+- `[M-L]` **Unsupervised Parsing via Constituency Tests**, *Steven Cao, Nikita Kitaev and Dan Klein*, <http://arxiv.org/abs/2010.03146>
 - `[M-L]` **HIT: Nested Named Entity Recognition via Head-Tail Pair and Token Interaction**, *Yu Wang, Yun Li, Hanghang Tong and Ziye Zhu*
 - `[M-L]` **DAGA: Data Augmentation with a Generation Approach forLow-resource Tagging Tasks**, *BOSHENG DING, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq Joty, Luo Si and Chunyan Miao*
 - `[M-L]` **Adversarial Attack and Defense of Structured Prediction Models**, *Wenjuan Han, Liwen Zhang, Yong Jiang and Kewei Tu*, <https://arxiv.org/abs/2010.01610>
@@ -1321,7 +1321,7 @@ The tags `[M-L]`, `[M-S]`, `[F-L]`, and `[F-S]` (prefix of each paper) represent
 - `[F-L]` **Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons**, *Minlong Peng, Ruotian Ma, Qi Zhang, Lujun Zhao, Mengxi Wei, Changlong Sun and Xuanjing Huang*
 - `[F-L]` **Rethinking Self-Attention: Towards Interpretability in Neural Parsing**, *Khalil Mrini, Franck Dernoncourt, Quan Hung Tran, Trung Bui, Walter Chang and Ndapa Nakashole*, <https://arxiv.org/abs/1911.03875>
 - `[F-L]` **Persian \textitEzafe Recognition Using Transformers and Its Role in Part-Of-Speech Tagging**, *Ehsan Doostmohammadi, Minoo Nassajian and Adel Rahimi*, <http://arxiv.org/abs/2009.09474>
-- `[F-L]` **Improving Constituency Parsing with Span Attention**, *Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang*, <http://arxiv.org/abs/2010.07543?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29>
+- `[F-L]` **Improving Constituency Parsing with Span Attention**, *Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang*, <http://arxiv.org/abs/2010.07543>
 - `[F-L]` **An Empirical Exploration of Local Ordering Pre-training for Structured Prediction**, *Zhisong Zhang, Xiang Kong, Lori Levin and Eduard Hovy*
 - `[F-L]` **Universal Dependencies According to BERT: Both More Specific and More General**, *Tomasz Limisiewicz, David Mareček and Rudolf Rosa*, <https://arxiv.org/abs/2004.14620>
 - `[F-L]` **Cross-Lingual Dependency Parsing by POS-Guided Word Reordering**, *Lu Liu, Yi Zhou, Jianhan Xu, Xiaoqing Zheng, Kai-Wei Chang and Xuanjing Huang*
