@@ -2,8 +2,6 @@
 
 Statistics and Accepted paper list with [arXiv](https://arxiv.org/) link of [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/),  inspired by Hoseong's [ICCV-2019-Paper-Statistics](https://github.com/hoya012/ICCV-2019-Paper-Statistics).
 
-**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/EMNLP-2019-Papers/pulls)*.
-
 ![wordcloud](figure/wordcloud.png)
 
 

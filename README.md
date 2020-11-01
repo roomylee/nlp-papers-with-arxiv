@@ -2,7 +2,7 @@
 
 Statistics and accepted paper list with **[arXiv](https://arxiv.org/) link** of NLP conferences such as [ACL](https://www.aclweb.org/anthology/venues/acl/), [EMNLP](https://www.aclweb.org/anthology/venues/emnlp/), and [NAACL](https://www.aclweb.org/anthology/venues/naacl/).
 
-**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/papers-with-arxiv/pulls)*.
+**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/nlp-papers-with-arxiv/pulls)*.
 
 ![wordcloud](emnlp-2020/figure/wordcloud.png)
 

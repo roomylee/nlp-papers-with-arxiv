@@ -2,8 +2,6 @@
 
 Statistics and accepted paper list of [ACL 2020](https://acl2020.org/) with [arXiv](https://arxiv.org/) link,  inspired by [ICCV-2019-Paper-Statistics](https://github.com/hoya012/ICCV-2019-Paper-Statistics) and [EMNLP-2019-Papers](https://github.com/roomylee/EMNLP-2019-Papers).
 
-**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/ACL-2020-Papers/pulls)*.
-
 ![wordcloud](figure/wordcloud.png)
 
 ## ACL 2020 Acceptance Rate
