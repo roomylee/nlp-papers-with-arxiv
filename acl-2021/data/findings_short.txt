@@ -1,0 +1,353 @@
+Diagnosing Transformers in Task-Oriented Semantic Parsing
+Shrey Desai and Ahmed Aly
+
+More Parameters? No Thanks!
+Zeeshan Khan, Kartheek Akella, Vinay Namboodiri and C V Jawahar
+
+More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods
+Thomas Bott, Dominik Schlechtweg and Sabine Schulte Im Walde
+
+CoDesc: A Large Code-Description Parallel Dataset
+Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, Wasi Ahmad, Anindya Iqbal and Rifat Shahriyar
+
+Better Chinese Sentence Segmentation with Reinforcement Learning
+Srivatsan Srinivasan and Chris Dyer
+
+Reader-Guided Passage Reranking for Open-Domain Question Answering
+Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han and Weizhu Chen
+
+LenAtten: An Effective Length Controlling Unit For Text Summarization
+Zhongyi Yu, Zhenghao Wu, Hao Zheng, Zhe XuanYuan, Jefferson Fong and Weifeng Su
+
+Using Word Embeddings to Analyze Teacher Evaluations: An Application to a Filipino Education Non-Profit Organization
+Francesca Vera
+
+Relation Classification with Entity Type Restriction
+Shengfei Lyu and Huanhuan Chen
+
+Decoupling Adversarial Training for Fair NLP
+Xudong Han, Timothy Baldwin and Trevor Cohn
+
+GO FIGURE: A Meta Evaluation of Factuality in Summarization
+Saadia Gabriel, Asli Celikyilmaz, Rahul Jha, Yejin Choi and Jianfeng Gao
+
+Error Detection in Large-Scale Natural Language Understanding Systems Using Transformer Models
+Rakesh Chada, Pradeep Natarajan, Darshan Fofadiya and Prathap Ramachandra
+
+Benchmarking Robustness of Machine Reading Comprehension Models
+Chenglei Si, Ziqing Yang, Yiming Cui, Wentao Ma, Ting Liu and Shijin Wang
+
+Improving BERT with Syntax-aware Local Attention
+Zhongli Li, Qingyu Zhou, Chao Li, Ke Xu and Yunbo Cao
+
+Boundary Detection with BERT for Span-level Emotion Cause Analysis
+Xiangju Li, Wei Gao, Shi Feng, Yifei Zhang and Daling Wang
+
+Can the Transformer Learn Nested Recursion with Symbol Masking?
+Jean-Philippe Bernardy, Adam Ek and Vladislav Maraev
+
+Evaluating the Efficacy of Summarization Evaluation across Languages
+Fajri Koto, Jey Han Lau and Timothy Baldwin
+
+Investigating Text Simplification Evaluation
+Laura Vasquez-Rodriguez, Matthew Shardlow, Piotr Przybya and Sophia Ananiadou
+
+Frustratingly Simple Few-Shot Slot Tagging
+Jianqiang Ma, Zeyu Yan, Chang Li and Yang Zhang
+
+Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation
+Shun-Po Chuang, Yung-Sung Chuang, Chih-Chiang Chang and Hung-yi Lee
+
+Fusing Context Into Knowledge Graph for Commonsense Question Answering
+Yichong Xu, Chenguang Zhu, Ruochen Xu, Yang Liu, Michael Zeng and Xuedong Huang
+
+Grammar-Constrained Neural Semantic Parsing with LR Parsers
+Artur Baranowski and Nico Hochgeschwender
+
+Grammar-Based Patches Generation for Automated Program Repair
+Yu Tang, Long Zhou, Ambrosio Blanco, Shujie Liu, Furu Wei, Ming Zhou and Muyun Yang
+
+Exploiting Position Bias for Robust Aspect Sentiment Classification
+Fang Ma, Chen Zhang and Dawei Song
+
+Jointly Identifying Rhetoric and Implicit Emotions via Multi-Task Learning
+Xin Chen, Zhen Hai, Deyu Li, Suge Wang and Dian Wang
+
+Encouraging Neural Machine Translation to Satisfy Terminology Constraints
+Melissa Ailem, Jingshu Liu and Raheel Qader
+
+BertGCN: Transductive Text Classification by Combining GNN and BERT
+Yuxiao Lin, Yuxian Meng, Xiaofei Sun, Qinghong Han, Kun Kuang, Jiwei Li and Fei Wu
+
+UserAdapter: Few-Shot User Learning in Sentiment Analysis
+Wanjun Zhong, Duyu Tang, Jiahai Wang, Jian Yin and Nan Duan
+
+Learning Slice-Aware Representations with Mixture of Attentions
+Cheng Wang, Sungjin Lee, Sunghyun Park, Han Li, Young-Bum Kim and Ruhi Sarikaya
+
+Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning
+Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu and Maosong Sun
+
+Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification
+Yijin Xiong, Yukun Feng, Hao Wu, Hidetaka Kamigaito and Manabu Okumura
+
+How Reliable are Model Diagnostics?
+Vamsi Aribandi, Yi Tay and Donald Metzler
+
+Cross-Lingual Cross-Domain Nested Named Entity Evaluation on English Web Texts
+Barbara Plank
+
+Alternated Training with Synthetic and Authentic Data for Neural Machine Translation
+Rui Jiao, Zonghan Yang, Maosong Sun and Yang Liu
+
+End-to-End Self-Debiasing Framework for Robust NLU Training
+Abbas Ghaddar, Phillippe Langlais, Mehdi Rezagholizadeh and Ahmad Rashid
+
+Injecting Knowledge Base Information into End-to-End Joint Entity and Relation Extraction and Coreference Resolution
+Severine Verlinden, Klim Zaporojets, Johannes Deleu, Thomas Demeester and Chris Develder
+
+Annotation and Evaluation of Coreference Resolution in Screenplays
+Sabyasachee Baruah, Sandeep Nallan Chakravarthula and Shrikanth Narayanan
+
+RetroGAN: A Cyclic Post-Specialization System for Improving Out-of-Knowledge and Rare Word Representations
+Pedro Colon-Hernandez, Yida Xin, Henry Lieberman, Catherine Havasi, Cynthia Breazeal and Peter Chin
+
+Fusion: Towards Automated ICD Coding via Feature Compression
+Junyu Luo, Cao Xiao, Lucas Glass, Jimeng Sun and Fenglong Ma
+
+Is Human Scoring the Best Criteria for Summary Evaluation?
+Oleg Vasilyev and John Bohannon
+
+Assessing Dialogue Systems with Distribution Distances
+Jiannan Xiang, Yahui Liu, Deng Cai, Huayang Li, Defu Lian and Lemao Liu
+
+Structure-Aware Pre-Training for Table-to-Text Generation
+Xinyu Xing and Xiaojun Wan
+
+A Multi-Task Learning Framework for Multi-Target Stance Detection
+Yingjie Li and Cornelia Caragea
+
+MA-BERT: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers
+You Zhang, Jin Wang, Liang-Chih Yu and Xuejie Zhang
+
+Event Extraction from Historical Texts: A New Dataset for Black Rebellions
+Viet Lai, Minh Van Nguyen, Heidi Kaufman and Thien Huu Nguyen
+
+Zero-shot Medical Entity Retrieval without Annotation: Learning From Rich Knowledge Graph Semantics
+Luyang Kong, Christopher Winestock and Parminder Bhatia
+
+Stylized Story Generation with Style-Guided Planning
+Xiangzhe Kong, Jialiang Huang, Ziquan Tung, Jian Guan and Minlie Huang
+
+AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation
+Wuwei Huang, Dexin Wang and Deyi Xiong
+
+A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction
+Kohei Makino, Makoto Miwa and Yutaka Sasaki
+
+Enhancing Language Generation with Effective Checkpoints of Pre-trained Language Model
+Jeonghyeok Park and Hai Zhao
+
+Transformer-Exclusive Cross-Modal Representation for Vision and Language
+Andrew Shin and Takuya Narihira
+
+Progressive Multi-Granularity Training for Non-Autoregressive Translation
+Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao and Zhaopeng Tu
+
+Do Multilingual Neural Machine Translation Models Contain Language Pair Specific Attention Heads?
+Zae Myung Kim, Laurent Besacier, Vassilina Nikoulina and Didier Schwab
+
+Modeling the Influence of Verb Aspect on the Activation of Typical Event Locations with BERT
+Won Ik Cho, Emmanuele Chersoni, Yu-Yin Hsu and Chu-Ren Huang
+
+Language Tags Matter for Zero-Shot Neural Machine Translation
+Liwei Wu, Shanbo Cheng, Mingxuan Wang and Lei Li
+
+Retrieval Enhanced Model for Commonsense Generation
+Han Wang, Yang Liu, Chenguang Zhu, Linjun Shou, Ming Gong, Yichong Xu and Michael Zeng
+
+Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance
+Dan Su, Tiezheng Yu and Pascale Fung
+
+Learning a Reversible Embedding Mapping using Bi-Directional Manifold Alignment
+Ashwinkumar Ganesan, Francis Ferraro and Tim Oates
+
+Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph
+Rui Liu, Zheng Lin, Yutong Tan and Weiping Wang
+
+Manifold Adversarial Augmentation for Neural Machine Translation
+Guandan Chen, Kai Fan, Kaibo Zhang, Boxing Chen and Zhongqiang Huang
+
+Is the Lottery Fair? Evaluating Winning Tickets Across Demographics
+Victor Petren Bach Hansen and Anders Sogaard
+
+SSMix: Saliency-Based Span Mixup for Text Classification
+Soyoung Yoon, Gyuwan Kim and Kyumin Park
+
+DoT: An efficient Double Transformer for NLP tasks with tables
+Syrine Krichene, Thomas Muller and Julian Eisenschlos
+
+Grammatical Error Correction as GAN-like Sequence Labeling
+Kevin Parnow, Zuchao Li and Hai Zhao
+
+Neural Entity Recognition with Gazetteer based Fusion
+Qing Sun and Parminder Bhatia
+
+Figurative Language in Recognizing Textual Entailment
+Tuhin Chakrabarty, Debanjan Ghosh, Adam Poliak and Smaranda Muresan
+
+An Exploratory Analysis of the Relation between Offensive Language and Mental Health
+Ana-Maria Bucur, Marcos Zampieri and Liviu P. Dinu
+
+Do Language Models Perform Generalizable Commonsense Inference?
+Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren
+
+Few-Shot Upsampling for Protest Size Detection
+Andrew Halterman and Benjamin J. Radford
+
+Modeling the Unigram Distribution
+Irene Nikkarinen, Tiago Pimentel, Damian Blasi and Ryan Cotterell
+
+On the Lack of Robust Interpretability of Neural Text Classifiers
+Muhammad Bilal Zafar, Michele Donini, Dylan Slack, Cedric Archambeau, Sanjiv Das and Krishnaram Kenthapadi
+
+Multimodal Graph-based Transformer Framework for Biomedical Relation Extraction
+Sriram Pingali, Shweta Yadav, Pratik Dutta and Sriparna Saha
+
+Summary Grounded Conversation Generation
+Chulaka Gunasekara, Guy Feigenblat, Benjamin Sznajder, Sachindra Joshi and David Konopnicki
+
+On the Gap between Adoption and Understanding in NLP
+Federico Bianchi and Dirk Hovy
+
+Learning Disentangled Latent Topics for Twitter Rumour Veracity Classification
+John Dougrez-Lewis, Maria Liakata, Elena Kochkina and Yulan He
+
+Minimally-Supervised Morphological Segmentation using Adaptor Grammars with Linguistic Priors
+Ramy Eskander, Cass Lowry, Sujay Khandagale, Francesca Callejas, Judith Klavans, Maria Polinsky and Smaranda Muresan
+
+Predicting in-hospital mortality by combining clinical notes with time-series data
+Iman Deznabi, Mohit Iyyer and Madalina Fiterau
+
+Sequence Models for Computational Etymology of Borrowings
+Winston Wu, Kevin Duh and David Yarowsky
+
+Improving Automated Evaluation of Open Domain Dialog via Diverse Reference Augmentation
+Varun Gangal, Harsh Jhamtani, Eduard Hovy and Taylor Berg-Kirkpatrick
+
+New Dataset and Strong Baselines for the Grammatical Error Correction of Russian
+Viet Anh Trinh and Alla Rozovskaya
+
+Effective Attention Sheds Light On Interpretability
+Kaiser Sun and Ana Marasovi
+
+On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers
+Tianchu Ji, Shraddhan Jain, Michael Ferdman, Peter Milder, H. Andrew Schwartz and Niranjan Balasubramanian
+
+Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?
+Jieyu Zhao, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Kai-Wei Chang
+
+Answer Generation for Retrieval-based Question Answering Systems
+Chao-Chun Hsu, Eric Lind, Luca Soldaini and Alessandro Moschitti
+
+Federated Chinese Word Segmentation with Global Character Associations
+Yuanhe Tian, Guimin Chen, Han Qin and Yan Song
+
+PSED: A Dataset for Selecting Emphasis in Presentation Slides
+Amirreza Shirani, Giai Tran, Hieu Trinh, Franck Dernoncourt, Nedim Lipka, Jose Echevarria, Thamar Solorio and Paul Asente
+
+Modulating Language Models with Emotions
+Ruibo Liu, Jason Wei, Chenyan Jia and Soroush Vosoughi
+
+Benchmarking Neural Topic Models: An Empirical Study
+Thanh-Nam Doan and Tuan-Anh Hoang
+
+Analysis of Tree-Structured Architectures for Code Generation
+Samip Dahal, Adyasha Maharana and Mohit Bansal
+
+How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation?
+Weijia Xu, Shuming Ma, Dongdong Zhang and Marine Carpuat
+
+Leveraging Topic Relatedness for Argument Persuasion
+Xinran Zhao, Esin Durmus, Hongming Zhang and Claire Cardie
+
+One Teacher is Enough? Pre-trained Language Model Distillation from Multiple Teachers
+Chuhan Wu, Fangzhao Wu and Yongfeng Huang
+
+Task-adaptive Pre-training of Language Models with Word Embedding Regularization
+Kosuke Nishida, Kyosuke Nishida and Sen Yoshida
+
+Do Grammatical Error Correction Models Realize Grammatical Generalization?
+Masato Mita and Hitomi Yanaka
+
+Domain-Aware Dependency Parsing for Questions
+Aparna Garimella, Laura Chiticariu and Yunyao Li
+
+Enhancing Dialogue-based Relation Extraction by Speaker and Trigger Words Prediction
+Tianyang Zhao, Zhao Yan, Yunbo Cao and Zhoujun Li
+
+Direct Simultaneous Speech-to-Text Translation Assisted by Synchronized Streaming ASR
+Junkun Chen, Mingbo Ma, Renjie Zheng and Liang Huang
+
+Analyzing Code Embeddings for Coding Clinical Narratives
+Wei Shi, Jiewen Wu, Xiwen Yang, Nancy Chen, Ivan Ho Mien, Jung-Jae Kim and Pavitra Krishnaswamy
+
+Rule-Aware Reinforcement Learning for Knowledge Graph Reasoning
+Zhongni Hou, Xiaolong Jin, Zixuan Li and Long Bai
+
+Use of Formal Ethical Reviews in NLP Literature: Historical Trends and Current Practices
+Sebastin Santy, Anku Rani and Monojit Choudhury
+
+As Easy as 1, 2, 3: Behavioural Testing of NMT Systems for Numerical Translation
+Jun Wang, Chang Xu, Francisco Guzman, Ahmed El-Kishky, Benjamin Rubinstein and Trevor Cohn
+
+BioGen: Generating Biography Summary under Table Guidance on Wikipedia
+Shen Gao, Xiuying Chen, Chang Liu, Dongyan Zhao and Rui Yan
+
+Multilingual Simultaneous Neural Machine Translation
+Philip Arthur, Dongwon Ryu and Gholamreza Haffari
+
+Strong and Light Baseline Models for Fact-Checking Joint Inference
+Kateryna Tymoshenko and Alessandro Moschitti
+
+Do It Once: An Embarrassingly Simple Joint Matching Approach to Response Selection
+Linhao Zhang, Dehong Ma, Sujian Li and Houfeng Wang
+
+Climbing the Tower of Treebanks: Improving Low-Resource Dependency Parsing via Hierarchical Source Selection
+Goran Glavas and Ivan Vuli
+
+Adapting Monolingual Models: Data can be Scarce when Language Similarity is High
+Wietse De Vries, Martijn Bartelds, Malvina Nissim and Martijn Wieling
+
+BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch
+Wenpeng Yin, Huan Wang, Jin Qu and Caiming Xiong
+
+Rule Augmented Unsupervised Constituency Parsing
+Atul Sahay, Anshul Nasery, Ayush Maheshwari, Ganesh Ramakrishnan and Rishabh Iyer
+
+How transfer learning impacts linguistic knowledge in deep NLP models?
+Nadir Durrani, Hassan Sajjad and Fahim Dalvi
+
+Uncertainty Aware Review Hallucination for Science Article Classification
+Korbinian Friedl, Georgios Rizos, Lukas Stappen, Madina Hasan, Lucia Specia, Thomas Hain and Bjorn Schuller
+
+Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization
+Shuaiqi Liu, Jiannong Cao, Ruosong Yang and Zhiyuan Wen
+
+Constraint based Knowledge Base Distillation in End-to-End Task Oriented Dialogs
+Dinesh Raghu, Atishya Jain, Mausam - and Sachindra Joshi
+
+Beyond Metadata: What Paper Authors Say About Corpora They Use
+Nikolay Kolyada, Martin Potthast and Benno Stein
+
+Knowledge Distillation for Quality Estimation
+Amit Gajbhiye, Marina Fomicheva, Fernando Alva-Manchego, Frederic Blain, Abiola Obamuyide, Nikolaos Aletras and Lucia Specia
+
+Cross-document Coreference Resolution over Predicted Mentions
+Arie Cattan, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan
+
+Could you give me a hint ? Generating inference graphs for defeasible reasoning
+Aman Madaan, Dheeraj Rajagopal, Niket Tandon, Yiming Yang and Eduard Hovy
+
+Characterizing Social Spambots by their Human Traits
+Salvatore Giorgi, Lyle Ungar and H. Andrew Schwartz
