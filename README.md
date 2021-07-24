@@ -8,7 +8,7 @@ Statistics and accepted paper list with **[arXiv](https://arxiv.org/) link** of 
 
 ## Conferences
 
-- **[ACL 2021](acl-2021) (UPdate!)**
+- **[ACL 2021](acl-2021) (Update!)**
 - [NAACL 2021 (anthology)](https://aclanthology.org/volumes/2021.naacl-main/)
 - [EACL 2021 (anthology)](https://aclanthology.org/volumes/2021.eacl-main/)
 - [AACL 2020 (anthology)](https://aclanthology.org/volumes/2020.aacl-main/)
