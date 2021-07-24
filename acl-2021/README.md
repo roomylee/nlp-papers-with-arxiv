@@ -6,6 +6,30 @@
 
 ![keywords](figure/keywords.png)
 
+## Paper Awards
+
+### Best paper
+
+- **Vocabulary Learning via Optimal Transport for Neural Machine Translation**, *Jingjing Xu, Hao Zhou, Chun Gan, Zaixiang Zheng and Lei Li*, <https://arxiv.org/abs/2012.15671>
+
+### Best theme paper
+
+- **Including Signed Languages in Natural Language Processing**, *Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg and Malihe Alikhani*, <https://arxiv.org/abs/2105.05222>
+
+### Outstanding papers
+
+- **All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text**, *Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan and Noah A. Smith*, <https://arxiv.org/abs/2107.00061>
+
+- **Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning**, *Armen Aghajanyan, Sonal Gupta and Luke Zettlemoyer*, <https://arxiv.org/abs/2012.13255>
+
+- **Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering**, *Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei and Christopher Manning*, <https://arxiv.org/abs/2107.02331>
+
+- **Neural Machine Translation with Monolingual Translation Memory**, *Deng Cai, Yan Wang, Huayang Li, Wai Lam and Lemao Liu*, <https://arxiv.org/abs/2105.11269>
+
+- **Scientific Credibility of Machine Translation Research: A Meta-Evaluation of 769 Papers**, *Benjamin Marie, Atsushi Fujita and Raphael Rubino*, <http://arxiv.org/abs/2106.15195>
+
+- **UnNatural Language Inference**, *Koustuv Sinha, Prasanna Parthasarathi, Joelle Pineau and Adina Williams*, <https://arxiv.org/abs/2101.00010>
+
 ## Main Conference
 
 There are accepted papers of [ACL 2021](https://2021.aclweb.org) with arXiv link.
@@ -1328,4 +1352,3 @@ The tags `[L]` and `[S]` (prefix of each paper) represent Findings -- Long Paper
 - `[S]` **Characterizing Social Spambots by their Human Traits**, *Salvatore Giorgi, Lyle Ungar and H. Andrew Schwartz*
 
 [Back to Top](#findings-of-acl)
-
