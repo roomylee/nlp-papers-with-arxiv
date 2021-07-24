@@ -1,3 +1,5 @@
 google
 matplotlib
 wordcloud
+tqdm
+nltk
